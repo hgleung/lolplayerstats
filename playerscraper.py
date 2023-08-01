@@ -8,7 +8,7 @@ import csv
 pattern = r"title=\"(.*?)\""
 
 def get_match_history(player: str) -> list:
-    url = "https://lol.fandom.com/wiki/" + player + "/Match_History?so=search"
+    url = "https://lol.fandom.com/wiki/" + player + "/Match_History"
     response = requests.get(url)
     soup = BeautifulSoup(response.content, "html.parser")
 
