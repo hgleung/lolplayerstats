@@ -4,7 +4,7 @@ import re
 from reference import *
 from collections import defaultdict
 import csv
-#testing
+
 pattern = r"title=\"(.*?)\""
 
 def get_match_history(player: str) -> list:
