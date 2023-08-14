@@ -1,7 +1,7 @@
 import csv
 from collections import defaultdict
 import math
-from reference import player_name_conversion
+from reference import *
 
 current_patch = 13.13
 
@@ -85,14 +85,19 @@ def weighted_average_kills(player: str) -> dict:
     return result
 
 while __name__ == "__main__":
-    name = input("Enter player name: ")
-    if name == "exit":
+    teams = input("Enter team names: ").split()
+    if teams[0] == "exit":
         exit()
     else:
-        try:
-            projections = weighted_average_kills(player_name_conversion[name.lower()])
-            print('Win:', round(projections['Win'], 2))
-            print('Lose:', round(projections['Lose'], 2))
-        except FileNotFoundError or KeyError:
-            print("Player not found")
+        for team in teams:
+            for player in pcs_players[team_conversion[team]]:
+                try:
+                    print(player.split('_')[0])
+                    projections = weighted_average_kills(player)
+                    print('3-0:', round(projections['Win']*3, 2))
+                    print('2-1:', round(projections['Win']*2 + projections['Lose'], 2))
+                    print('1-2:', round(projections['Win'] + projections['Lose']*2, 2))
+                    print('0-3:', round(projections['Lose']*3, 2))
+                except FileNotFoundError or KeyError:
+                    print("Player not found")
     

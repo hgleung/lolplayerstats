@@ -8,8 +8,14 @@ pcs_teams = {
     "Impunity",
     "J_Team",
     "PSG_Talon",
-    "West_Point_Esports_Philippines",
+    "West_Point_Esports_Philippines"
 }
+
+team_conversion = {
+    "psg" : 'PSG_Talon',
+    "dcg" : 'Deep_Cross_Gaming'
+}
+
 
 pcs_players = {
     'PSG_Talon': ['Azhi', 'JunJia', 'Maple_(Huang_Yi-Tang)', 'Wako', 'Woody'], 
