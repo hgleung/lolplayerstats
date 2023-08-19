@@ -7,6 +7,12 @@ import csv
 
 pattern = r"title=\"(.*?)\""
 
+def str_to_ref(region: str):
+    if region == "pcs":
+        return (pcs_teams, pcs_players, "PCS")
+    if region == "lck":
+        return (lck_teams, lck_players, "LCK")
+
 def get_match_history(player: str) -> list:
     url = "https://lol.fandom.com/wiki/" + player + "/Match_History"
     response = requests.get(url)
@@ -71,9 +77,11 @@ def convert_to_csv(player_name, region):
             writer.writerow(game)
 
 if __name__ == "__main__":
-    for team in pcs_players:
-        for player in pcs_players[team]:
+    region_name = input("Enter region name: ")
+    region = str_to_ref(region_name.lower())
+    for team in region[0]:
+        for player in region[1][team]:
             try:
-                convert_to_csv(player, "PCS")
+                convert_to_csv(player, region[2])
             except AttributeError:
                 pass

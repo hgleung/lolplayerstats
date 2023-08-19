@@ -1,0 +1,51 @@
+Date,Tournament,Patch,Result,Side,Opponent,Game Duration,Champ,Kills,Deaths,Assists
+2023-08-12,KR LCK 2023 Summer Playoffs,13.14,Loss,Blue,Gen.G,29:34,Azir,0,3,2
+2023-08-12,KR LCK 2023 Summer Playoffs,13.14,Loss,Red,Gen.G,30:11,Azir,0,5,3
+2023-08-12,KR LCK 2023 Summer Playoffs,13.14,Win,Red,Gen.G,22:57,Corki,3,0,12
+2023-08-12,KR LCK 2023 Summer Playoffs,13.14,Win,Blue,Gen.G,29:41,Azir,1,1,4
+2023-08-12,KR LCK 2023 Summer Playoffs,13.14,Loss,Red,Gen.G,28:59,Azir,2,4,3
+2023-08-10,KR LCK 2023 Summer Playoffs,13.14,Win,Blue,KT Rolster,37:55,Azir,5,3,8
+2023-08-10,KR LCK 2023 Summer Playoffs,13.14,Loss,Red,KT Rolster,30:54,Neeko,0,5,5
+2023-08-10,KR LCK 2023 Summer Playoffs,13.14,Win,Red,KT Rolster,32:11,Azir,6,2,4
+2023-08-10,KR LCK 2023 Summer Playoffs,13.14,Win,Blue,KT Rolster,26:07,Neeko,3,2,9
+2023-08-10,KR LCK 2023 Summer Playoffs,13.14,Loss,Red,KT Rolster,24:45,Azir,1,3,2
+2023-08-09,KR LCK 2023 Summer Playoffs,13.14,Win,Red,Dplus KIA,35:42,Annie,1,1,7
+2023-08-09,KR LCK 2023 Summer Playoffs,13.14,Win,Blue,Dplus KIA,36:05,Corki,5,2,3
+2023-08-09,KR LCK 2023 Summer Playoffs,13.14,Loss,Red,Dplus KIA,32:44,Jayce,0,1,0
+2023-08-09,KR LCK 2023 Summer Playoffs,13.14,Win,Red,Dplus KIA,30:28,Jayce,2,3,8
+2023-08-04,KR LCK 2023 Summer,13.14,Win,Blue,Liiv SANDBOX,31:45,Xerath,5,3,10
+2023-08-04,KR LCK 2023 Summer,13.14,Win,Blue,Liiv SANDBOX,28:01,Azir,2,3,5
+2023-08-02,KR LCK 2023 Summer,13.14,Win,Blue,Kwangdong Freecs,23:43,Jayce,2,0,8
+2023-08-02,KR LCK 2023 Summer,13.14,Win,Blue,Kwangdong Freecs,23:40,Jayce,0,3,5
+2023-07-02,KR LCK 2023 Summer,13.12,Win,Red,Nongshim RedForce,28:13,Annie,1,1,7
+2023-07-02,KR LCK 2023 Summer,13.12,Win,Blue,Nongshim RedForce,26:51,Annie,2,2,7
+2023-07-02,KR LCK 2023 Summer,13.12,Loss,Blue,Nongshim RedForce,34:29,Tristana,5,4,3
+2023-06-30,KR LCK 2023 Summer,13.12,Win,Red,Dplus KIA,30:11,LeBlanc,3,4,7
+2023-06-30,KR LCK 2023 Summer,13.12,Win,Blue,Dplus KIA,27:35,Annie,4,2,8
+2023-06-24,KR LCK 2023 Summer,13.11,Loss,Blue,KT Rolster,26:31,Azir,2,4,2
+2023-06-24,KR LCK 2023 Summer,13.11,Loss,Blue,KT Rolster,30:35,Neeko,0,4,2
+2023-06-21,KR LCK 2023 Summer,13.11,Win,Red,Kwangdong Freecs,27:32,Azir,5,2,6
+2023-06-21,KR LCK 2023 Summer,13.11,Win,Red,Kwangdong Freecs,30:60,Azir,4,1,4
+2023-06-17,KR LCK 2023 Summer,13.11,Win,Red,OKSavingsBank BRION,22:59,Jayce,7,2,6
+2023-06-17,KR LCK 2023 Summer,13.11,Win,Red,OKSavingsBank BRION,36:33,Azir,4,1,2
+2023-06-15,KR LCK 2023 Summer,13.11,Win,Red,Liiv SANDBOX,26:47,Azir,1,1,5
+2023-06-15,KR LCK 2023 Summer,13.11,Win,Blue,Liiv SANDBOX,39:19,Azir,7,4,9
+2023-06-11,KR LCK 2023 Summer,13.10,Loss,Red,Gen.G,32:23,Ahri,0,1,4
+2023-06-11,KR LCK 2023 Summer,13.10,Win,Blue,Gen.G,30:05,Ahri,2,1,8
+2023-06-11,KR LCK 2023 Summer,13.10,Loss,Red,Gen.G,26:29,Annie,2,2,4
+2023-06-09,KR LCK 2023 Summer,13.10,Win,Blue,Hanwha Life Esports,30:01,Ahri,1,3,7
+2023-06-09,KR LCK 2023 Summer,13.10,Win,Blue,Hanwha Life Esports,25:18,K'Sante,1,0,5
+2023-06-09,KR LCK 2023 Summer,13.10,Loss,Red,Hanwha Life Esports,44:08,Jayce,3,2,3
+2023-05-20,INT MSI 2023,13.8,Loss,Red,Bilibili Gaming,37:55,Ahri,2,2,4
+2023-05-20,INT MSI 2023,13.8,Win,Blue,Bilibili Gaming,32:13,K'Sante,3,2,6
+2023-05-20,INT MSI 2023,13.8,Loss,Blue,Bilibili Gaming,27:51,Jayce,0,2,2
+2023-05-20,INT MSI 2023,13.8,Loss,Red,Bilibili Gaming,43:36,Lissandra,1,6,5
+2023-05-18,INT MSI 2023,13.8,Loss,Blue,JD Gaming,35:06,Nautilus,1,5,6
+2023-05-18,INT MSI 2023,13.8,Loss,Red,JD Gaming,31:56,Nautilus,0,2,4
+2023-05-18,INT MSI 2023,13.8,Win,Red,JD Gaming,23:10,K'Sante,2,3,9
+2023-05-18,INT MSI 2023,13.8,Win,Blue,JD Gaming,24:24,Tristana,3,2,1
+2023-05-18,INT MSI 2023,13.8,Loss,Red,JD Gaming,28:53,Nautilus,0,6,2
+2023-05-13,INT MSI 2023,13.8,Win,Blue,Gen.G,26:05,K'Sante,1,1,1
+2023-05-13,INT MSI 2023,13.8,Loss,Red,Gen.G,30:01,Ahri,1,4,3
+2023-05-13,INT MSI 2023,13.8,Loss,Blue,Gen.G,30:44,Annie,4,4,6
+2023-05-13,INT MSI 2023,13.8,Win,Red,Gen.G,26:03,Annie,3,3,13

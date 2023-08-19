@@ -1,4 +1,12 @@
 Date,Tournament,Patch,Result,Side,Opponent,Game Duration,Champ,Kills,Deaths,Assists
+2023-08-18,PCS PCS 2023 Summer Playoffs,13.14,Win,Blue,Chiefs Esports Club,24:24,Jayce,5,0,6
+2023-08-18,PCS PCS 2023 Summer Playoffs,13.14,Loss,Blue,Chiefs Esports Club,43:06,LeBlanc,1,3,3
+2023-08-18,PCS PCS 2023 Summer Playoffs,13.14,Win,Red,Chiefs Esports Club,23:37,Jayce,6,0,10
+2023-08-18,PCS PCS 2023 Summer Playoffs,13.14,Win,Red,Chiefs Esports Club,31:60,LeBlanc,3,1,6
+2023-08-07,PCS PCS 2023 Summer,13.13,Loss,Red,CTBC Flying Oyster,33:25,Ahri,2,0,2
+2023-08-06,PCS PCS 2023 Summer,13.13,Loss,Red,Deep Cross Gaming,34:43,Syndra,1,2,4
+2023-08-05,PCS PCS 2023 Summer,13.13,Win,Blue,Dewish Team,33:58,Annie,2,3,14
+2023-08-04,PCS PCS 2023 Summer,13.13,Win,Red,Impunity,23:40,Annie,3,1,6
 2023-07-30,PCS PCS 2023 Summer,13.13,Loss,Blue,Beyond Gaming,37:02,LeBlanc,0,3,4
 2023-07-29,PCS PCS 2023 Summer,13.13,Win,Blue,J Team,33:60,Neeko,2,1,7
 2023-07-28,PCS PCS 2023 Summer,13.13,Win,Blue,HELL PIGS,29:40,Ahri,6,1,13
@@ -41,11 +49,3 @@ Date,Tournament,Patch,Result,Side,Opponent,Game Duration,Champ,Kills,Deaths,Assi
 2023-03-05,PCS PCS 2023 Spring,13.4,Win,Blue,SEM9 WPE,26:19,Viktor,4,1,4
 2023-03-04,PCS PCS 2023 Spring,13.4,Win,Blue,Impunity,44:17,Jayce,7,2,7
 2023-03-03,PCS PCS 2023 Spring,13.4,Win,Blue,Deep Cross Gaming,37:29,LeBlanc,5,2,3
-2023-02-26,PCS PCS 2023 Spring,13.3,Loss,Red,Beyond Gaming,33:30,Cassiopeia,0,2,1
-2023-02-25,PCS PCS 2023 Spring,13.3,Win,Red,J Team,28:10,Jayce,3,2,7
-2023-02-24,PCS PCS 2023 Spring,13.3,Loss,Blue,HELL PIGS,42:27,Tristana,2,4,0
-2023-02-19,PCS PCS 2023 Spring,13.3,Loss,Blue,CTBC Flying Oyster,35:37,Sylas,3,2,4
-2023-02-18,PCS PCS 2023 Spring,13.3,Win,Blue,Dewish Team,25:42,Jayce,7,0,5
-2023-02-17,PCS PCS 2023 Spring,13.3,Loss,Red,Deep Cross Gaming,31:51,Azir,0,3,2
-2023-02-12,PCS PCS 2023 Spring,13.1,Win,Blue,SEM9 WPE,23:24,Yone,6,1,5
-2023-02-11,PCS PCS 2023 Spring,13.1,Win,Red,Impunity,25:26,Cassiopeia,4,1,7

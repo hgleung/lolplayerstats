@@ -13,7 +13,11 @@ pcs_teams = {
 
 team_conversion = {
     "psg" : 'PSG_Talon',
-    "dcg" : 'Deep_Cross_Gaming'
+    "dcg" : 'Deep_Cross_Gaming',
+    "frank" : "Frank_Esports",
+    "cfo" : 'CTBC_Flying_Oyster',
+    "t1" : "T1",
+    "kt" : "KT_Rolster"
 }
 
 
@@ -30,7 +34,7 @@ pcs_players = {
     'HELL_PIGS': ['Taco_(Fan_Zhao-Fu)', 'Godtone', 'Adiogs', 'Tide_(Hsieh_Yu-Che)', 'IC8']
 }
 
-player_name_conversion = {
+pcs_player_name_conversion = {
     'kennychan': 'KennyChan',
     'rest': 'Rest',
     'prage': 'Prage',
@@ -82,4 +86,30 @@ player_name_conversion = {
     'shiauc': 'ShiauC',
     'azhi': 'Azhi',
     'adiogs': 'Adiogs'
+}
+
+lck_teams = {
+    "Dplus_KIA",
+    "DRX",
+    "Gen.G",
+    "Hanwha_Life_Esports",
+    "KT_Rolster",
+    "Kwangdong_Freecs",
+    "Liiv_SANDBOX",
+    "Nongshim_RedForce",
+    "OKSavingsBank_BRION",
+    "T1"
+}
+
+lck_players = {
+    'Dplus_KIA': ['Canna', 'Canyon', 'ShowMaker', 'Deft', 'Kellin'], 
+    'DRX': ['Rascal', 'Croco', 'Juhan', 'FATE', 'Paduck', 'BeryL'], 
+    'Gen.G': ['Doran', 'Peanut', 'Chovy', 'Peyz', 'Delight'], 
+    'Hanwha_Life_Esports': ['Kingen', 'Grizzly', 'Zeka', 'Viper', 'Life'], 
+    'KT_Rolster': ['Kiin', 'Cuzz', 'Bdd', 'Aiming', 'Lehends'], 
+    'Kwangdong_Freecs': ['DuDu', 'YoungJae', 'BuLLDoG', 'Taeyoon', 'Jun', 'Andil'], 
+    'Liiv_SANDBOX': ['Burdol', 'Clear', 'Willer', 'Clozer', 'Teddy', 'Kael'], 
+    'Nongshim_RedForce': ['DnDn', 'Sylvie', 'Quad', 'FIESTA', 'vital', 'Jiwoo', 'Peter'], 
+    'OKSavingsBank_BRION': ['Morgan', 'UmTi', 'Karis', 'Ivory', 'Hena', 'Effort'], 
+    'T1': ['Zeus', 'Oner', 'Faker', 'Gumayusi', 'Keria']
 }

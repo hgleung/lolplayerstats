@@ -1,0 +1,51 @@
+Date,Tournament,Patch,Result,Side,Opponent,Game Duration,Champ,Kills,Deaths,Assists
+2023-08-17,KR LCK CL 2023 Summer Playoffs,13.14,Win,Red,Dplus KIA Challengers,27:36,Xayah,5,0,4
+2023-08-17,KR LCK CL 2023 Summer Playoffs,13.14,Win,Blue,Dplus KIA Challengers,30:09,Xayah,6,1,6
+2023-08-17,KR LCK CL 2023 Summer Playoffs,13.14,Loss,Red,Dplus KIA Challengers,26:21,Xayah,2,1,1
+2023-08-17,KR LCK CL 2023 Summer Playoffs,13.14,Win,Red,Dplus KIA Challengers,43:54,Zeri,6,1,3
+2023-08-15,KR LCK CL 2023 Summer Playoffs,13.14,Win,Red,DRX Challengers,29:38,Zeri,3,3,1
+2023-08-15,KR LCK CL 2023 Summer Playoffs,13.14,Win,Blue,DRX Challengers,24:32,Kai'Sa,6,1,6
+2023-08-15,KR LCK CL 2023 Summer Playoffs,13.14,Loss,Red,DRX Challengers,30:31,Aphelios,0,1,2
+2023-08-15,KR LCK CL 2023 Summer Playoffs,13.14,Win,Blue,DRX Challengers,30:17,Kai'Sa,2,0,2
+2023-08-03,KR LCK CL 2023 Summer,13.14,Win,Red,Dplus KIA Challengers,31:60,Ezreal,5,0,1
+2023-08-03,KR LCK CL 2023 Summer,13.14,Win,Blue,Dplus KIA Challengers,31:48,Xayah,4,0,4
+2023-08-03,KR LCK CL 2023 Summer,13.14,Loss,Blue,Dplus KIA Challengers,24:08,Ezreal,0,2,0
+2023-07-31,KR LCK CL 2023 Summer,13.14,Win,Blue,Kwangdong Freecs Challengers,29:45,Xayah,3,0,6
+2023-07-31,KR LCK CL 2023 Summer,13.14,Loss,Red,Kwangdong Freecs Challengers,24:53,Kai'Sa,1,2,1
+2023-07-31,KR LCK CL 2023 Summer,13.14,Win,Blue,Kwangdong Freecs Challengers,31:09,Kai'Sa,7,0,0
+2023-07-27,KR LCK CL 2023 Summer,13.13,Win,Blue,Hanwha Life Esports Challengers,29:29,Tristana,9,1,3
+2023-07-27,KR LCK CL 2023 Summer,13.13,Loss,Red,Hanwha Life Esports Challengers,37:57,Aphelios,2,5,8
+2023-07-27,KR LCK CL 2023 Summer,13.13,Win,Blue,Hanwha Life Esports Challengers,29:02,Aphelios,4,0,1
+2023-07-25,KR LCK CL 2023 Summer,13.13,Loss,Blue,KT Rolster Challengers,37:54,Xayah,8,2,4
+2023-07-25,KR LCK CL 2023 Summer,13.13,Loss,Red,KT Rolster Challengers,30:11,Ashe,3,3,4
+2023-07-21,KR LCK CL 2023 Summer,13.12,Win,Blue,Gen.G Global Academy,26:27,Xayah,6,0,5
+2023-07-21,KR LCK CL 2023 Summer,13.12,Win,Blue,Gen.G Global Academy,29:35,Kai'Sa,10,0,6
+2023-07-17,KR LCK CL 2023 Summer,13.12,Win,Red,OKSavingsBank BRION Challengers,30:26,Aphelios,4,0,3
+2023-07-17,KR LCK CL 2023 Summer,13.12,Win,Red,OKSavingsBank BRION Challengers,25:10,Aphelios,7,0,3
+2023-07-13,KR LCK CL 2023 Summer,13.12,Win,Blue,Liiv SANDBOX Youth,25:25,Kai'Sa,7,3,3
+2023-07-13,KR LCK CL 2023 Summer,13.12,Loss,Red,Liiv SANDBOX Youth,25:52,Ezreal,1,3,1
+2023-07-13,KR LCK CL 2023 Summer,13.12,Win,Red,Liiv SANDBOX Youth,27:12,Xayah,3,3,6
+2023-07-10,KR LCK CL 2023 Summer,13.13,Loss,Red,DRX Challengers,27:49,Kai'Sa,1,2,0
+2023-07-10,KR LCK CL 2023 Summer,13.13,Win,Blue,DRX Challengers,41:30,Xayah,13,5,9
+2023-07-10,KR LCK CL 2023 Summer,13.13,Loss,Red,DRX Challengers,35:40,Kai'Sa,2,2,2
+2023-07-06,KR LCK CL 2023 Summer,13.12,Win,Red,T1 Esports Academy,36:56,Kai'Sa,7,4,5
+2023-07-06,KR LCK CL 2023 Summer,13.12,Win,Blue,T1 Esports Academy,28:28,Kai'Sa,9,1,8
+2023-07-03,KR LCK CL 2023 Summer,13.12,Win,Blue,KT Rolster Challengers,29:28,Kai'Sa,1,0,6
+2023-07-03,KR LCK CL 2023 Summer,13.12,Loss,Red,KT Rolster Challengers,29:35,Varus,0,4,1
+2023-07-03,KR LCK CL 2023 Summer,13.12,Win,Blue,KT Rolster Challengers,26:59,Kai'Sa,7,0,8
+2023-06-29,KR LCK CL 2023 Summer,13.12,Win,Red,Liiv SANDBOX Youth,23:58,Kai'Sa,8,1,14
+2023-06-29,KR LCK CL 2023 Summer,13.12,Win,Red,Liiv SANDBOX Youth,34:21,Kai'Sa,6,1,10
+2023-06-26,KR LCK CL 2023 Summer,13.12,Win,Red,Gen.G Global Academy,25:28,Varus,1,2,6
+2023-06-26,KR LCK CL 2023 Summer,13.12,Loss,Red,Gen.G Global Academy,34:25,Varus,2,3,2
+2023-06-26,KR LCK CL 2023 Summer,13.12,Win,Red,Gen.G Global Academy,30:39,Ezreal,1,0,4
+2023-06-16,KR LCK 2023 Summer,13.11,Loss,Blue,Gen.G,28:35,Aphelios,2,1,0
+2023-06-16,KR LCK 2023 Summer,13.11,Loss,Blue,Gen.G,28:10,Jinx,1,3,1
+2023-06-10,KR LCK 2023 Summer,13.10,Loss,Blue,Liiv SANDBOX,28:10,Aphelios,1,5,2
+2023-06-10,KR LCK 2023 Summer,13.10,Loss,Red,Liiv SANDBOX,27:12,Xayah,2,2,0
+2023-06-08,KR LCK 2023 Summer,13.10,Win,Red,OKSavingsBank BRION,29:34,Zeri,7,0,4
+2023-06-08,KR LCK 2023 Summer,13.10,Win,Blue,OKSavingsBank BRION,35:37,Jinx,3,0,5
+2023-06-08,KR LCK 2023 Summer,13.10,Loss,Red,OKSavingsBank BRION,32:05,Zeri,0,2,0
+2023-03-19,KR LCK 2023 Spring,13.5,Loss,Blue,T1,21:01,Zeri,2,4,1
+2023-03-19,KR LCK 2023 Spring,13.5,Loss,Red,T1,23:20,Lucian,1,4,4
+2023-03-17,KR LCK 2023 Spring,13.5,Win,Red,BRION,28:48,Xayah,2,1,7
+2023-03-17,KR LCK 2023 Spring,13.5,Win,Red,BRION,35:27,Zeri,5,1,8

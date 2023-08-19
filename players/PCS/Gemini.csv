@@ -1,4 +1,11 @@
 Date,Tournament,Patch,Result,Side,Opponent,Game Duration,Champ,Kills,Deaths,Assists
+2023-08-17,PCS PCS 2023 Summer Playoffs,13.14,Win,Blue,Team Bliss,30:19,Sejuani,4,3,15
+2023-08-17,PCS PCS 2023 Summer Playoffs,13.14,Win,Red,Team Bliss,30:49,Maokai,0,2,10
+2023-08-17,PCS PCS 2023 Summer Playoffs,13.14,Win,Red,Team Bliss,30:08,Maokai,1,0,12
+2023-08-07,PCS PCS 2023 Summer,13.13,Win,Blue,Frank Esports,33:25,Poppy,2,1,5
+2023-08-06,PCS PCS 2023 Summer,13.13,Win,Blue,Impunity,27:37,Poppy,0,1,9
+2023-08-05,PCS PCS 2023 Summer,13.13,Loss,Red,Beyond Gaming,40:32,Viego,2,3,10
+2023-08-04,PCS PCS 2023 Summer,13.13,Loss,Blue,Dewish Team,44:45,Lee Sin,2,6,13
 2023-07-30,PCS PCS 2023 Summer,13.13,Loss,Red,PSG Talon,32:18,Ivern,2,2,5
 2023-07-29,PCS PCS 2023 Summer,13.13,Loss,Red,West Point Esports Philippines,27:38,Poppy,0,2,4
 2023-07-28,PCS PCS 2023 Summer,13.13,Loss,Red,Deep Cross Gaming,36:52,Sejuani,2,1,4
@@ -42,10 +49,3 @@ Date,Tournament,Patch,Result,Side,Opponent,Game Duration,Champ,Kills,Deaths,Assi
 2023-02-25,PCS PCS 2023 Spring,13.3,Win,Blue,SEM9 WPE,25:09,Maokai,2,0,13
 2023-02-24,PCS PCS 2023 Spring,13.3,Loss,Blue,Impunity,38:09,Wukong,1,2,6
 2023-02-19,PCS PCS 2023 Spring,13.3,Win,Red,Frank Esports,35:37,Vi,0,2,10
-2023-02-18,PCS PCS 2023 Spring,13.3,Win,Blue,J Team,30:23,Wukong,4,2,9
-2023-02-17,PCS PCS 2023 Spring,13.3,Loss,Red,PSG Talon,34:40,Sejuani,1,1,3
-2023-02-12,PCS PCS 2023 Spring,13.1,Win,Red,Dewish Team,24:13,Wukong,6,1,9
-2023-02-11,PCS PCS 2023 Spring,13.1,Win,Red,Deep Cross Gaming,40:57,Sejuani,8,2,7
-2023-02-10,PCS PCS 2023 Spring,13.1,Win,Red,Impunity,34:39,Vi,6,3,8
-2023-02-05,PCS PCS 2023 Spring,13.1,Win,Blue,HELL PIGS,27:44,Vi,0,1,9
-2023-02-04,PCS PCS 2023 Spring,13.1,Win,Red,SEM9 WPE,23:41,Vi,5,2,14

@@ -3,9 +3,15 @@ from collections import defaultdict
 import math
 from reference import *
 
-current_patch = 13.13
+current_patch = 13.14
 
-def weighted_average_kills(player: str) -> dict:
+def str_to_ref(region: str):
+    if region == "pcs":
+        return (pcs_players, "PCS")
+    if region == "lck":
+        return (lck_players, "LCK")
+
+def weighted_average_kills(reg: str, player: str) -> dict:
     """
     Reads all lines of data from the CSV file and returns a weighted average of kills based on patch and frequency of champ.
 
@@ -26,7 +32,7 @@ def weighted_average_kills(player: str) -> dict:
     lose_kills = defaultdict(int)
     lose_total_freq = 0
 
-    with open(f"players/PCS/{player}.csv", "r") as csvfile:
+    with open(f"players/{reg}/{player}.csv", "r") as csvfile:
         reader = csv.reader(csvfile)
         next(reader, None)
         
@@ -85,15 +91,18 @@ def weighted_average_kills(player: str) -> dict:
     return result
 
 while __name__ == "__main__":
+    region_name = input("Enter region name: ")
+    region = str_to_ref(region_name.lower())
+
     teams = input("Enter team names: ").split()
     if teams[0] == "exit":
         exit()
     else:
         for team in teams:
-            for player in pcs_players[team_conversion[team]]:
+            for player in region[0][team_conversion[team.lower()]]:
                 try:
                     print(player.split('_')[0])
-                    projections = weighted_average_kills(player)
+                    projections = weighted_average_kills(region[1], player)
                     print('3-0:', round(projections['Win']*3, 2))
                     print('2-1:', round(projections['Win']*2 + projections['Lose'], 2))
                     print('1-2:', round(projections['Win'] + projections['Lose']*2, 2))
