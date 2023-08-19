@@ -7,7 +7,7 @@ from reference import *
 def get_players():
     result = defaultdict(list)
 
-    url = "https://lol.fandom.com/wiki/LCK/2023_Season/Summer_Season/Team_Rosters"
+    url = "https://lol.fandom.com/wiki/LCS/2023_Season/Summer_Season/Team_Rosters"
     response = requests.get(url)
     soup = BeautifulSoup(response.content, "html.parser")
 
@@ -17,11 +17,8 @@ def get_players():
         rows = table.find_all("tr")
         for row in rows[1:]:
             name_element = row.find('a', class_='catlink-players pWAG pWAN to_hasTooltip')
-            role_tag = soup.find('td', class_='extended-rosters-role')
-            if role_tag.text == "Coach":
-                continue
             try:
-                result[lck_teams[num]].append(name_element.text)
+                result[lcs_teams[num]].append(name_element.text)
             except AttributeError:
                 pass
     return result

@@ -1,0 +1,51 @@
+Date,Tournament,Patch,Result,Side,Opponent,Game Duration,Champ,Kills,Deaths,Assists
+2023-07-30,EMEA LEC 2023 Summer Playoffs,13.13,Loss,Blue,G2 Esports,23:55,Sejuani,1,6,3
+2023-07-30,EMEA LEC 2023 Summer Playoffs,13.13,Loss,Red,G2 Esports,37:05,Maokai,1,7,6
+2023-07-30,EMEA LEC 2023 Summer Playoffs,13.13,Loss,Red,G2 Esports,25:05,Maokai,2,4,2
+2023-07-29,EMEA LEC 2023 Summer Playoffs,13.13,Win,Blue,Fnatic,28:15,Ivern,0,4,19
+2023-07-29,EMEA LEC 2023 Summer Playoffs,13.13,Loss,Red,Fnatic,35:40,Sejuani,1,4,4
+2023-07-29,EMEA LEC 2023 Summer Playoffs,13.13,Win,Red,Fnatic,30:15,Maokai,2,1,14
+2023-07-29,EMEA LEC 2023 Summer Playoffs,13.13,Win,Blue,Fnatic,28:42,Sejuani,1,0,19
+2023-07-24,EMEA LEC 2023 Summer Playoffs,13.13,Loss,Red,G2 Esports,38:31,Trundle,1,5,6
+2023-07-24,EMEA LEC 2023 Summer Playoffs,13.13,Win,Blue,G2 Esports,32:37,Maokai,0,6,14
+2023-07-24,EMEA LEC 2023 Summer Playoffs,13.13,Loss,Red,G2 Esports,35:20,Sejuani,1,6,7
+2023-07-24,EMEA LEC 2023 Summer Playoffs,13.13,Win,Red,G2 Esports,28:55,Maokai,4,3,18
+2023-07-24,EMEA LEC 2023 Summer Playoffs,13.13,Loss,Red,G2 Esports,31:11,Maokai,1,8,8
+2023-07-17,EMEA LEC 2023 Summer Groups,13.13,Win,Blue,SK Gaming,32:08,Maokai,2,4,14
+2023-07-17,EMEA LEC 2023 Summer Groups,13.13,Loss,Blue,SK Gaming,28:13,Sejuani,0,1,2
+2023-07-17,EMEA LEC 2023 Summer Groups,13.13,Win,Blue,SK Gaming,34:36,Sejuani,6,6,12
+2023-07-15,EMEA LEC 2023 Summer Groups,13.13,Win,Red,MAD Lions,39:14,Viego,4,2,12
+2023-07-15,EMEA LEC 2023 Summer Groups,13.13,Win,Blue,MAD Lions,29:03,Lee Sin,7,0,8
+2023-07-03,EMEA LEC 2023 Summer Season,13.11,Win,Red,Team Vitality,28:26,Sejuani,4,0,12
+2023-07-02,EMEA LEC 2023 Summer Season,13.11,Win,Blue,Astralis,30:04,Amumu,1,1,11
+2023-07-01,EMEA LEC 2023 Summer Season,13.11,Loss,Blue,G2 Esports,28:25,Nocturne,1,4,1
+2023-06-26,EMEA LEC 2023 Summer Season,13.11,Win,Red,MAD Lions,38:30,Poppy,1,3,13
+2023-06-25,EMEA LEC 2023 Summer Season,13.11,Win,Blue,Team BDS,38:10,Maokai,1,2,8
+2023-06-24,EMEA LEC 2023 Summer Season,13.11,Win,Blue,Team Heretics,30:07,Maokai,0,1,13
+2023-06-19,EMEA LEC 2023 Summer Season,13.11,Loss,Blue,SK Gaming,37:21,Viego,2,3,5
+2023-06-18,EMEA LEC 2023 Summer Season,13.11,Loss,Red,Fnatic,32:57,Sejuani,2,3,6
+2023-06-17,EMEA LEC 2023 Summer Season,13.11,Loss,Red,KOI (Spanish Team),35:18,Wukong,2,3,8
+2023-04-29,EMEA EM 2023 Spring Main Event,13.6,Loss,Blue,Istanbul Wildcats,29:33,Wukong,1,4,5
+2023-04-29,EMEA EM 2023 Spring Main Event,13.6,Loss,Blue,Istanbul Wildcats,26:16,Maokai,1,4,2
+2023-04-29,EMEA EM 2023 Spring Main Event,13.6,Loss,Red,Istanbul Wildcats,27:57,Vi,3,4,8
+2023-04-29,EMEA EM 2023 Spring Main Event,13.6,Win,Red,Istanbul Wildcats,30:05,Lee Sin,4,2,10
+2023-04-29,EMEA EM 2023 Spring Main Event,13.6,Win,Blue,Istanbul Wildcats,38:41,Maokai,1,4,8
+2023-04-26,EMEA EM 2023 Spring Main Event,13.6,Win,Red,Team Heretics Academy,34:08,Sejuani,1,3,13
+2023-04-26,EMEA EM 2023 Spring Main Event,13.6,Win,Blue,Team Heretics Academy,39:41,Wukong,6,5,11
+2023-04-26,EMEA EM 2023 Spring Main Event,13.6,Loss,Red,Team Heretics Academy,35:04,Sejuani,2,5,7
+2023-04-26,EMEA EM 2023 Spring Main Event,13.6,Win,Red,Team Heretics Academy,30:36,Sejuani,3,0,14
+2023-04-19,EMEA EM 2023 Spring Main Event,13.6,Win,Blue,Movistar Riders,35:43,Sejuani,2,6,13
+2023-04-19,EMEA EM 2023 Spring Main Event,13.6,Loss,Blue,Movistar Riders,26:29,Lee Sin,4,7,6
+2023-04-19,EMEA EM 2023 Spring Main Event,13.6,Loss,Red,Movistar Riders,25:12,Maokai,0,5,3
+2023-04-19,EMEA EM 2023 Spring Main Event,13.6,Win,Blue,Movistar Riders,28:31,Maokai,4,3,13
+2023-04-19,EMEA EM 2023 Spring Main Event,13.6,Win,Blue,Movistar Riders,30:33,Vi,2,7,6
+2023-04-14,EMEA EM 2023 Spring Main Event,13.6,Win,Blue,LDLC OL,28:41,Sejuani,2,2,7
+2023-04-14,EMEA EM 2023 Spring Main Event,13.6,Win,Red,ESuba,25:08,Vi,6,0,4
+2023-04-14,EMEA EM 2023 Spring Main Event,13.6,Win,Red,Orbit Anonymo Esports,23:59,Sejuani,6,1,11
+2023-04-14,EMEA EM 2023 Spring Main Event,13.6,Win,Blue,LDLC OL,31:50,Wukong,4,1,6
+2023-04-12,EMEA EM 2023 Spring Main Event,13.6,Win,Blue,ESuba,25:26,Wukong,7,2,14
+2023-04-12,EMEA EM 2023 Spring Main Event,13.6,Win,Blue,Orbit Anonymo Esports,46:05,Wukong,4,4,7
+2023-04-12,EMEA EM 2023 Spring Main Event,13.6,Loss,Red,LDLC OL,30:47,Graves,1,2,1
+2023-04-01,EMEA PRM 1st Division 2023 Spring Playoffs,13.5,Win,Blue,SK Gaming Prime,26:44,Graves,9,2,7
+2023-04-01,EMEA PRM 1st Division 2023 Spring Playoffs,13.5,Loss,Red,SK Gaming Prime,29:23,Maokai,1,4,3
+2023-04-01,EMEA PRM 1st Division 2023 Spring Playoffs,13.5,Win,Blue,SK Gaming Prime,40:16,Lee Sin,4,5,16

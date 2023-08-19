@@ -1,0 +1,51 @@
+Date,Tournament,Patch,Result,Side,Opponent,Game Duration,Champ,Kills,Deaths,Assists
+2023-08-12,NA LCS 2023 Championship,13.14,Win,Red,NRG,41:60,Xayah,10,4,4
+2023-08-12,NA LCS 2023 Championship,13.14,Win,Red,NRG,37:33,Sivir,3,1,7
+2023-08-12,NA LCS 2023 Championship,13.14,Win,Blue,NRG,33:20,Kai'Sa,5,0,10
+2023-08-05,NA LCS 2023 Championship,13.14,Win,Blue,Evil Geniuses.NA,28:01,Ezreal,9,2,5
+2023-08-05,NA LCS 2023 Championship,13.14,Win,Red,Evil Geniuses.NA,30:08,Kai'Sa,6,1,15
+2023-08-05,NA LCS 2023 Championship,13.14,Win,Blue,Evil Geniuses.NA,40:05,Ashe,6,0,6
+2023-07-22,NA LCS 2023 Summer,13.13,Win,Red,Golden Guardians,25:34,Ashe,4,0,8
+2023-07-22,NA LCS 2023 Summer,13.13,Win,Blue,FlyQuest,25:35,Xayah,2,0,4
+2023-07-20,NA LCS 2023 Summer,13.13,Win,Blue,TSM,20:42,Aphelios,3,0,5
+2023-07-19,NA LCS 2023 Summer,13.13,Loss,Red,NRG,38:19,Kai'Sa,6,2,4
+2023-07-14,NA LCS 2023 Summer,13.13,Win,Blue,Evil Geniuses.NA,25:46,Kog'Maw,1,1,4
+2023-07-14,NA LCS 2023 Summer,13.13,Win,Blue,100 Thieves,27:08,Kai'Sa,6,3,10
+2023-07-12,NA LCS 2023 Summer,13.13,Loss,Blue,Team Liquid,38:33,Ashe,5,1,8
+2023-07-07,NA LCS 2023 Summer,13.13,Win,Red,Immortals,28:16,Aphelios,0,4,4
+2023-07-06,NA LCS 2023 Summer,13.13,Win,Blue,Dignitas,30:02,Varus,1,2,8
+2023-07-05,NA LCS 2023 Summer,13.13,Loss,Red,Golden Guardians,27:56,Draven,2,2,3
+2023-06-30,NA LCS 2023 Summer,13.12,Win,Blue,Evil Geniuses.NA,22:11,Ashe,7,0,8
+2023-06-29,NA LCS 2023 Summer,13.12,Loss,Red,Team Liquid,28:18,Xayah,1,2,1
+2023-06-29,NA LCS 2023 Summer,13.12,Win,Blue,Immortals,26:11,Kai'Sa,7,0,6
+2023-06-24,NA LCS 2023 Summer,13.12,Loss,Blue,NRG,29:59,Aphelios,1,3,3
+2023-06-22,NA LCS 2023 Summer,13.12,Win,Red,100 Thieves,26:46,Zeri,4,0,5
+2023-06-21,NA LCS 2023 Summer,13.12,Win,Blue,FlyQuest,28:24,Kai'Sa,4,0,10
+2023-06-17,NA LCS 2023 Summer,13.11,Win,Blue,TSM,29:25,Aphelios,2,0,4
+2023-06-15,NA LCS 2023 Summer,13.11,Win,Red,Dignitas,27:24,Aphelios,6,1,8
+2023-06-14,NA LCS 2023 Summer,13.11,Win,Blue,Golden Guardians,26:37,Zeri,5,0,3
+2023-05-17,INT MSI 2023,13.8,Loss,Blue,Gen.G,26:31,Lucian,2,3,0
+2023-05-17,INT MSI 2023,13.8,Loss,Blue,Gen.G,25:55,Lucian,0,4,2
+2023-05-17,INT MSI 2023,13.8,Loss,Red,Gen.G,27:07,Aphelios,1,2,1
+2023-05-14,INT MSI 2023,13.8,Win,Blue,Golden Guardians,35:02,Varus,6,0,9
+2023-05-14,INT MSI 2023,13.8,Loss,Blue,Golden Guardians,35:05,Jinx,6,4,2
+2023-05-14,INT MSI 2023,13.8,Win,Blue,Golden Guardians,30:39,Xayah,1,1,5
+2023-05-14,INT MSI 2023,13.8,Win,Red,Golden Guardians,22:59,Aphelios,6,0,2
+2023-05-11,INT MSI 2023,13.8,Loss,Red,Bilibili Gaming,34:38,Aphelios,6,3,3
+2023-05-11,INT MSI 2023,13.8,Loss,Blue,Bilibili Gaming,31:06,Xayah,2,1,4
+2023-05-11,INT MSI 2023,13.8,Loss,Blue,Bilibili Gaming,34:55,Xayah,7,4,4
+2023-04-09,NA LCS 2023 Spring Playoffs,13.5,Win,Red,Golden Guardians,29:06,Xayah,7,0,3
+2023-04-09,NA LCS 2023 Spring Playoffs,13.5,Win,Blue,Golden Guardians,26:22,Lucian,6,0,3
+2023-04-09,NA LCS 2023 Spring Playoffs,13.5,Loss,Red,Golden Guardians,28:26,Zeri,2,2,3
+2023-04-09,NA LCS 2023 Spring Playoffs,13.5,Win,Blue,Golden Guardians,37:58,Aphelios,7,4,8
+2023-03-30,NA LCS 2023 Spring Playoffs,13.5,Win,Red,FlyQuest,36:55,Aphelios,12,4,4
+2023-03-30,NA LCS 2023 Spring Playoffs,13.5,Win,Red,FlyQuest,34:51,Varus,10,0,6
+2023-03-30,NA LCS 2023 Spring Playoffs,13.5,Win,Blue,FlyQuest,32:16,Varus,8,1,11
+2023-03-24,NA LCS 2023 Spring Playoffs,13.5,Win,Red,Counter Logic Gaming,34:29,Zeri,7,2,10
+2023-03-24,NA LCS 2023 Spring Playoffs,13.5,Win,Blue,Counter Logic Gaming,28:28,Zeri,3,1,4
+2023-03-24,NA LCS 2023 Spring Playoffs,13.5,Loss,Red,Counter Logic Gaming,34:39,Lucian,1,1,3
+2023-03-24,NA LCS 2023 Spring Playoffs,13.5,Win,Blue,Counter Logic Gaming,38:23,Varus,5,3,1
+2023-03-18,NA LCS 2023 Spring,13.5,Win,Red,FlyQuest,29:25,Draven,12,1,2
+2023-03-17,NA LCS 2023 Spring,13.5,Loss,Red,Counter Logic Gaming,37:51,Varus,4,4,1
+2023-03-17,NA LCS 2023 Spring,13.5,Win,Blue,Immortals,27:11,Varus,4,2,4
+2023-03-15,NA LCS 2023 Spring,13.5,Win,Blue,FlyQuest,26:36,Draven,3,0,5

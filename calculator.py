@@ -2,14 +2,9 @@ import csv
 from collections import defaultdict
 import math
 from reference import *
+from playerscraper import str_to_ref
 
 current_patch = 13.14
-
-def str_to_ref(region: str):
-    if region == "pcs":
-        return (pcs_players, "PCS")
-    if region == "lck":
-        return (lck_players, "LCK")
 
 def weighted_average_kills(reg: str, player: str) -> dict:
     """
@@ -99,10 +94,10 @@ while __name__ == "__main__":
         exit()
     else:
         for team in teams:
-            for player in region[0][team_conversion[team.lower()]]:
+            for player in region[1][team_conversion[team.lower()]]:
                 try:
                     print(player.split('_')[0])
-                    projections = weighted_average_kills(region[1], player)
+                    projections = weighted_average_kills(region[2], player)
                     print('3-0:', round(projections['Win']*3, 2))
                     print('2-1:', round(projections['Win']*2 + projections['Lose'], 2))
                     print('1-2:', round(projections['Win'] + projections['Lose']*2, 2))

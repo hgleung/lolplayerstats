@@ -1,0 +1,48 @@
+Date,Tournament,Patch,Result,Side,Opponent,Game Duration,Champ,Kills,Deaths,Assists
+2023-07-29,EMEA LEC 2023 Summer Playoffs,13.13,Loss,Red,Excel Esports,28:15,Sejuani,2,3,10
+2023-07-29,EMEA LEC 2023 Summer Playoffs,13.13,Win,Blue,Excel Esports,35:40,Kindred,4,1,7
+2023-07-29,EMEA LEC 2023 Summer Playoffs,13.13,Loss,Blue,Excel Esports,30:15,Ivern,1,5,3
+2023-07-29,EMEA LEC 2023 Summer Playoffs,13.13,Loss,Red,Excel Esports,28:42,Trundle,5,4,1
+2023-07-28,EMEA LEC 2023 Summer Playoffs,13.13,Win,Blue,Team Heretics,26:16,Poppy,3,1,6
+2023-07-28,EMEA LEC 2023 Summer Playoffs,13.13,Win,Red,Team Heretics,29:01,Maokai,3,0,10
+2023-07-28,EMEA LEC 2023 Summer Playoffs,13.13,Win,Blue,Team Heretics,30:09,Ivern,1,1,13
+2023-07-28,EMEA LEC 2023 Summer Playoffs,13.13,Loss,Blue,Team Heretics,31:02,Trundle,1,3,3
+2023-07-23,EMEA LEC 2023 Summer Groups,13.13,Win,Blue,SK Gaming,34:58,Trundle,2,3,14
+2023-07-23,EMEA LEC 2023 Summer Groups,13.13,Win,Blue,SK Gaming,26:40,Rell,4,0,7
+2023-07-22,EMEA LEC 2023 Summer Groups,13.13,Win,Blue,MAD Lions,37:33,Maokai,2,4,14
+2023-07-22,EMEA LEC 2023 Summer Groups,13.13,Win,Blue,MAD Lions,30:03,Maokai,5,1,7
+2023-07-15,EMEA LEC 2023 Summer Groups,13.13,Loss,Blue,SK Gaming,34:47,Sejuani,2,4,6
+2023-07-15,EMEA LEC 2023 Summer Groups,13.13,Loss,Red,SK Gaming,32:35,Poppy,0,2,2
+2023-07-03,EMEA LEC 2023 Summer Season,13.11,Loss,Red,SK Gaming,31:03,Maokai,2,6,6
+2023-07-02,EMEA LEC 2023 Summer Season,13.11,Win,Red,Team Heretics,33:36,Poppy,2,3,8
+2023-07-01,EMEA LEC 2023 Summer Season,13.11,Win,Blue,Team BDS,42:57,Viego,5,1,8
+2023-06-26,EMEA LEC 2023 Summer Season,13.11,Win,Blue,Team Vitality,32:10,Amumu,5,3,10
+2023-06-25,EMEA LEC 2023 Summer Season,13.11,Win,Red,MAD Lions,28:23,Maokai,2,1,10
+2023-06-24,EMEA LEC 2023 Summer Season,13.11,Win,Red,KOI (Spanish Team),29:29,Wukong,8,2,9
+2023-06-19,EMEA LEC 2023 Summer Season,13.11,Loss,Red,G2 Esports,31:26,Viego,3,5,3
+2023-06-18,EMEA LEC 2023 Summer Season,13.11,Win,Blue,Excel Esports,32:57,Kindred,4,2,11
+2023-06-17,EMEA LEC 2023 Summer Season,13.11,Win,Blue,Astralis,25:54,Viego,10,4,7
+2023-04-15,EMEA LEC 2023 Spring Groups,13.6,Loss,Red,MAD Lions,36:08,Wukong,7,10,17
+2023-04-15,EMEA LEC 2023 Spring Groups,13.6,Win,Blue,MAD Lions,29:02,Maokai,1,1,10
+2023-04-15,EMEA LEC 2023 Spring Groups,13.6,Loss,Red,MAD Lions,30:00,Wukong,2,4,3
+2023-04-08,EMEA LEC 2023 Spring Groups,13.6,Loss,Red,Astralis,33:19,Maokai,3,3,9
+2023-04-08,EMEA LEC 2023 Spring Groups,13.6,Win,Red,Astralis,30:02,Vi,2,1,15
+2023-04-08,EMEA LEC 2023 Spring Groups,13.6,Loss,Red,Astralis,33:48,Maokai,0,3,9
+2023-03-27,EMEA LEC 2023 Spring Season,13.4,Loss,Red,Astralis,37:03,Sejuani,4,6,6
+2023-03-26,EMEA LEC 2023 Spring Season,13.4,Win,Red,G2 Esports,32:44,Wukong,4,3,11
+2023-03-25,EMEA LEC 2023 Spring Season,13.4,Win,Blue,MAD Lions,31:40,Sejuani,3,3,10
+2023-03-20,EMEA LEC 2023 Spring Season,13.4,Win,Blue,KOI (Spanish Team),31:50,Vi,10,0,6
+2023-03-19,EMEA LEC 2023 Spring Season,13.4,Win,Red,Team Heretics,40:39,Vi,6,4,12
+2023-03-18,EMEA LEC 2023 Spring Season,13.4,Loss,Blue,Team BDS,34:02,Lee Sin,1,6,4
+2023-03-13,EMEA LEC 2023 Spring Season,13.4,Loss,Blue,Team Vitality,23:29,Vi,2,5,1
+2023-03-12,EMEA LEC 2023 Spring Season,13.4,Loss,Red,SK Gaming,31:49,Sejuani,3,4,2
+2023-03-11,EMEA LEC 2023 Spring Season,13.4,Loss,Red,Excel Esports,30:11,Sejuani,1,2,1
+2023-02-06,EMEA LEC 2023 Winter Season,13.1,Loss,Red,SK Gaming,29:56,Wukong,2,3,3
+2023-02-05,EMEA LEC 2023 Winter Season,13.1,Loss,Red,Astralis,26:58,Vi,1,4,1
+2023-02-04,EMEA LEC 2023 Winter Season,13.1,Loss,Blue,MAD Lions,24:52,Viego,3,5,1
+2023-01-30,EMEA LEC 2023 Winter Season,13.1,Loss,Blue,Team Heretics,40:41,Vi,2,6,12
+2023-01-29,EMEA LEC 2023 Winter Season,13.1,Win,Red,Excel Esports,35:06,Wukong,5,6,6
+2023-01-28,EMEA LEC 2023 Winter Season,13.1,Loss,Blue,Team BDS,38:08,Viego,5,5,3
+2023-01-23,EMEA LEC 2023 Winter Season,13.1,Win,Red,KOI (Spanish Team),34:32,Maokai,2,1,10
+2023-01-22,EMEA LEC 2023 Winter Season,13.1,Loss,Blue,G2 Esports,23:55,Sejuani,1,6,3
+2023-01-21,EMEA LEC 2023 Winter Season,13.1,Loss,Red,Team Vitality,33:03,Kindred,4,5,9

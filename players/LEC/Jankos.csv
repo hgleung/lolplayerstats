@@ -1,0 +1,45 @@
+Date,Tournament,Patch,Result,Side,Opponent,Game Duration,Champ,Kills,Deaths,Assists
+2023-07-28,EMEA LEC 2023 Summer Playoffs,13.13,Loss,Red,Fnatic,26:16,Viego,2,3,4
+2023-07-28,EMEA LEC 2023 Summer Playoffs,13.13,Loss,Blue,Fnatic,29:01,Trundle,0,4,3
+2023-07-28,EMEA LEC 2023 Summer Playoffs,13.13,Loss,Red,Fnatic,30:09,Trundle,5,4,5
+2023-07-28,EMEA LEC 2023 Summer Playoffs,13.13,Win,Red,Fnatic,31:02,Maokai,1,1,9
+2023-07-23,EMEA LEC 2023 Summer Groups,13.13,Win,Red,Team BDS,29:10,Viego,5,1,6
+2023-07-23,EMEA LEC 2023 Summer Groups,13.13,Win,Blue,Team BDS,38:39,Trundle,1,3,8
+2023-07-22,EMEA LEC 2023 Summer Groups,13.13,Win,Blue,KOI (Spanish Team),28:36,Trundle,5,0,8
+2023-07-22,EMEA LEC 2023 Summer Groups,13.13,Win,Blue,KOI (Spanish Team),41:35,Viego,3,1,12
+2023-07-16,EMEA LEC 2023 Summer Groups,13.13,Loss,Blue,Team BDS,26:36,Ivern,0,3,6
+2023-07-16,EMEA LEC 2023 Summer Groups,13.13,Loss,Red,Team BDS,26:18,Sejuani,2,3,3
+2023-07-16,EMEA LEC 2023 Summer Groups,13.13,Win,Blue,Team BDS,29:33,Trundle,1,0,8
+2023-07-03,EMEA LEC 2023 Summer Season,13.11,Loss,Blue,G2 Esports,34:58,Maokai,2,4,5
+2023-07-02,EMEA LEC 2023 Summer Season,13.11,Loss,Blue,Fnatic,33:36,Vi,1,6,8
+2023-07-01,EMEA LEC 2023 Summer Season,13.11,Win,Red,MAD Lions,27:05,Wukong,8,1,9
+2023-06-26,EMEA LEC 2023 Summer Season,13.11,Win,Red,Team BDS,32:41,Viego,2,3,11
+2023-06-25,EMEA LEC 2023 Summer Season,13.11,Loss,Blue,KOI (Spanish Team),37:50,Maokai,1,2,2
+2023-06-24,EMEA LEC 2023 Summer Season,13.11,Loss,Red,Excel Esports,30:07,Sejuani,2,3,4
+2023-06-19,EMEA LEC 2023 Summer Season,13.11,Win,Blue,Team Vitality,33:03,Maokai,1,2,8
+2023-06-18,EMEA LEC 2023 Summer Season,13.11,Win,Red,Astralis,29:44,Maokai,1,1,16
+2023-06-17,EMEA LEC 2023 Summer Season,13.11,Win,Red,SK Gaming,37:42,Wukong,2,5,14
+2023-03-27,EMEA LEC 2023 Spring Season,13.4,Loss,Blue,MAD Lions,34:39,Wukong,5,4,9
+2023-03-27,EMEA LEC 2023 Spring Season,13.4,Win,Blue,SK Gaming,32:20,Vi,5,0,15
+2023-03-26,EMEA LEC 2023 Spring Season,13.4,Loss,Red,Team Vitality,37:56,Sejuani,0,5,7
+2023-03-25,EMEA LEC 2023 Spring Season,13.4,Loss,Blue,Astralis,28:32,Wukong,3,5,4
+2023-03-20,EMEA LEC 2023 Spring Season,13.4,Win,Red,MAD Lions,36:29,Vi,7,3,11
+2023-03-19,EMEA LEC 2023 Spring Season,13.4,Loss,Blue,Fnatic,40:39,Jarvan IV,3,5,11
+2023-03-18,EMEA LEC 2023 Spring Season,13.4,Win,Blue,Excel Esports,37:31,Wukong,8,3,15
+2023-03-13,EMEA LEC 2023 Spring Season,13.4,Loss,Blue,Team BDS,31:30,Wukong,3,3,3
+2023-03-12,EMEA LEC 2023 Spring Season,13.4,Loss,Red,KOI (Spanish Team),46:53,Wukong,7,3,10
+2023-03-11,EMEA LEC 2023 Spring Season,13.4,Loss,Red,G2 Esports,23:41,Elise,5,5,2
+2023-02-18,EMEA LEC 2023 Winter Groups,13.1,Loss,Blue,SK Gaming,39:22,Kindred,1,3,4
+2023-02-18,EMEA LEC 2023 Winter Groups,13.1,Loss,Red,SK Gaming,29:23,Graves,0,2,1
+2023-02-11,EMEA LEC 2023 Winter Groups,13.1,Loss,Red,Team Vitality,39:41,Vi,1,7,7
+2023-02-11,EMEA LEC 2023 Winter Groups,13.1,Win,Red,Team Vitality,26:30,Vi,7,1,4
+2023-02-11,EMEA LEC 2023 Winter Groups,13.1,Loss,Red,Team Vitality,26:56,Wukong,1,3,2
+2023-02-06,EMEA LEC 2023 Winter Season,13.1,Loss,Red,Team BDS,37:53,Sejuani,7,1,6
+2023-02-05,EMEA LEC 2023 Winter Season,13.1,Loss,Blue,MAD Lions,33:26,Wukong,2,5,5
+2023-02-04,EMEA LEC 2023 Winter Season,13.1,Win,Red,Excel Esports,26:17,Sejuani,3,1,16
+2023-01-30,EMEA LEC 2023 Winter Season,13.1,Win,Red,Fnatic,40:41,Wukong,5,3,14
+2023-01-29,EMEA LEC 2023 Winter Season,13.1,Loss,Blue,G2 Esports,18:46,Elise,0,6,2
+2023-01-28,EMEA LEC 2023 Winter Season,13.1,Win,Blue,KOI (Spanish Team),44:34,Graves,2,2,10
+2023-01-23,EMEA LEC 2023 Winter Season,13.1,Loss,Blue,SK Gaming,32:09,Maokai,3,5,7
+2023-01-22,EMEA LEC 2023 Winter Season,13.1,Loss,Red,Team Vitality,28:22,Wukong,2,3,8
+2023-01-21,EMEA LEC 2023 Winter Season,13.1,Win,Red,Astralis,35:55,Vi,4,4,10

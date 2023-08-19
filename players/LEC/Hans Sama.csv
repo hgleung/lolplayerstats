@@ -1,0 +1,51 @@
+Date,Tournament,Patch,Result,Side,Opponent,Game Duration,Champ,Kills,Deaths,Assists
+2023-07-30,EMEA LEC 2023 Summer Playoffs,13.13,Win,Red,Excel Esports,23:55,Kai'Sa,10,1,10
+2023-07-30,EMEA LEC 2023 Summer Playoffs,13.13,Win,Blue,Excel Esports,37:05,Kog'Maw,7,1,6
+2023-07-30,EMEA LEC 2023 Summer Playoffs,13.13,Win,Blue,Excel Esports,25:05,Kai'Sa,10,0,7
+2023-07-24,EMEA LEC 2023 Summer Playoffs,13.13,Win,Blue,Excel Esports,38:31,Kog'Maw,9,1,3
+2023-07-24,EMEA LEC 2023 Summer Playoffs,13.13,Loss,Red,Excel Esports,32:37,Kai'Sa,3,4,10
+2023-07-24,EMEA LEC 2023 Summer Playoffs,13.13,Win,Blue,Excel Esports,35:20,Kog'Maw,14,1,6
+2023-07-24,EMEA LEC 2023 Summer Playoffs,13.13,Loss,Blue,Excel Esports,28:55,Kog'Maw,3,5,6
+2023-07-24,EMEA LEC 2023 Summer Playoffs,13.13,Win,Blue,Excel Esports,31:11,Kai'Sa,15,3,16
+2023-07-17,EMEA LEC 2023 Summer Groups,13.13,Win,Red,Team BDS,32:09,Kalista,7,2,12
+2023-07-17,EMEA LEC 2023 Summer Groups,13.13,Win,Blue,Team BDS,28:27,Kai'Sa,9,1,9
+2023-07-16,EMEA LEC 2023 Summer Groups,13.13,Win,Red,KOI (Spanish Team),28:25,Kalista,5,0,6
+2023-07-16,EMEA LEC 2023 Summer Groups,13.13,Win,Blue,KOI (Spanish Team),32:05,Kalista,4,1,7
+2023-07-03,EMEA LEC 2023 Summer Season,13.11,Win,Red,Team Heretics,34:58,Aphelios,5,1,5
+2023-07-02,EMEA LEC 2023 Summer Season,13.11,Win,Blue,KOI (Spanish Team),28:25,Kog'Maw,2,0,5
+2023-07-01,EMEA LEC 2023 Summer Season,13.11,Win,Red,Excel Esports,28:25,Draven,6,2,6
+2023-06-26,EMEA LEC 2023 Summer Season,13.11,Win,Blue,Astralis,27:43,Kog'Maw,2,0,3
+2023-06-25,EMEA LEC 2023 Summer Season,13.11,Win,Blue,SK Gaming,33:36,Kog'Maw,7,1,2
+2023-06-24,EMEA LEC 2023 Summer Season,13.11,Win,Red,Team Vitality,26:08,Aphelios,2,3,8
+2023-06-19,EMEA LEC 2023 Summer Season,13.11,Win,Blue,Fnatic,31:26,Aphelios,12,1,10
+2023-06-18,EMEA LEC 2023 Summer Season,13.11,Loss,Red,MAD Lions,40:10,Lucian,8,4,4
+2023-06-17,EMEA LEC 2023 Summer Season,13.11,Win,Blue,Team BDS,31:47,Lucian,3,3,8
+2023-05-16,INT MSI 2023,13.8,Loss,Blue,Bilibili Gaming,29:50,Aphelios,2,4,2
+2023-05-16,INT MSI 2023,13.8,Loss,Blue,Bilibili Gaming,36:39,Jinx,3,3,10
+2023-05-16,INT MSI 2023,13.8,Win,Blue,Bilibili Gaming,36:58,Jinx,8,1,5
+2023-05-16,INT MSI 2023,13.8,Loss,Blue,Bilibili Gaming,29:49,Jinx,8,5,5
+2023-05-13,INT MSI 2023,13.8,Win,Blue,MAD Lions,25:54,Jinx,2,0,8
+2023-05-13,INT MSI 2023,13.8,Win,Blue,MAD Lions,28:33,Jinx,4,3,8
+2023-05-13,INT MSI 2023,13.8,Win,Red,MAD Lions,22:56,Aphelios,11,3,9
+2023-05-09,INT MSI 2023,13.8,Loss,Red,Gen.G,29:29,Draven,2,2,2
+2023-05-09,INT MSI 2023,13.8,Win,Blue,Gen.G,32:27,Xayah,5,1,7
+2023-05-09,INT MSI 2023,13.8,Loss,Blue,Gen.G,19:47,Jinx,0,5,2
+2023-05-09,INT MSI 2023,13.8,Loss,Red,Gen.G,27:27,Draven,4,4,3
+2023-05-04,INT MSI 2023,13.8,Win,Red,PSG Talon,26:55,Jinx,8,2,13
+2023-05-04,INT MSI 2023,13.8,Win,Blue,PSG Talon,40:26,Xayah,6,4,5
+2023-05-02,INT MSI 2023,13.8,Win,Blue,LOUD,20:13,Jinx,4,0,7
+2023-05-02,INT MSI 2023,13.8,Win,Blue,LOUD,32:47,Jinx,5,3,13
+2023-04-21,EMEA LEC 2023 Spring Playoffs,13.6,Loss,Red,MAD Lions,27:15,Jinx,5,1,3
+2023-04-21,EMEA LEC 2023 Spring Playoffs,13.6,Win,Blue,MAD Lions,30:42,Lucian,6,0,7
+2023-04-21,EMEA LEC 2023 Spring Playoffs,13.6,Loss,Blue,MAD Lions,25:34,Zeri,2,4,3
+2023-04-21,EMEA LEC 2023 Spring Playoffs,13.6,Loss,Red,MAD Lions,32:41,Jinx,4,3,4
+2023-04-21,EMEA LEC 2023 Spring Playoffs,13.6,Win,Blue,MAD Lions,27:42,Jinx,8,1,9
+2023-04-16,EMEA LEC 2023 Spring Groups,13.6,Win,Red,KOI (Spanish Team),35:25,Jinx,8,0,4
+2023-04-16,EMEA LEC 2023 Spring Groups,13.6,Win,Blue,KOI (Spanish Team),21:22,Kai'Sa,1,0,4
+2023-04-16,EMEA LEC 2023 Spring Groups,13.6,Loss,Blue,KOI (Spanish Team),27:53,Lucian,2,2,3
+2023-04-15,EMEA LEC 2023 Spring Groups,13.6,Win,Red,SK Gaming,23:46,Nilah,2,1,8
+2023-04-15,EMEA LEC 2023 Spring Groups,13.6,Win,Blue,SK Gaming,29:53,Lucian,5,2,9
+2023-04-09,EMEA LEC 2023 Spring Groups,13.6,Loss,Blue,KOI (Spanish Team),28:02,Varus,2,4,3
+2023-04-09,EMEA LEC 2023 Spring Groups,13.6,Loss,Red,KOI (Spanish Team),31:33,Varus,1,4,3
+2023-04-09,EMEA LEC 2023 Spring Groups,13.6,Win,Blue,KOI (Spanish Team),30:36,Varus,3,0,8
+2023-03-27,EMEA LEC 2023 Spring Season,13.4,Win,Red,MAD Lions,28:07,Sivir,4,2,10

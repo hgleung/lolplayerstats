@@ -1,0 +1,51 @@
+Date,Tournament,Patch,Result,Side,Opponent,Game Duration,Champ,Kills,Deaths,Assists
+2023-07-22,EMEA LEC 2023 Summer Groups,13.13,Loss,Red,Team Heretics,28:36,Gnar,4,3,1
+2023-07-22,EMEA LEC 2023 Summer Groups,13.13,Loss,Red,Team Heretics,41:35,Quinn,2,5,2
+2023-07-16,EMEA LEC 2023 Summer Groups,13.13,Loss,Blue,G2 Esports,28:25,Renekton,1,5,2
+2023-07-16,EMEA LEC 2023 Summer Groups,13.13,Loss,Red,G2 Esports,32:05,Kennen,2,3,5
+2023-07-03,EMEA LEC 2023 Summer Season,13.11,Win,Blue,Astralis,28:35,Renekton,3,1,8
+2023-07-02,EMEA LEC 2023 Summer Season,13.11,Loss,Red,G2 Esports,28:25,Gwen,1,3,1
+2023-07-01,EMEA LEC 2023 Summer Season,13.11,Win,Red,Team Vitality,32:42,Gnar,0,3,3
+2023-06-26,EMEA LEC 2023 Summer Season,13.11,Loss,Blue,SK Gaming,35:15,K'Sante,1,5,4
+2023-06-25,EMEA LEC 2023 Summer Season,13.11,Win,Red,Team Heretics,37:50,Gwen,3,1,6
+2023-06-24,EMEA LEC 2023 Summer Season,13.11,Loss,Blue,Fnatic,29:29,Gragas,1,3,1
+2023-06-19,EMEA LEC 2023 Summer Season,13.11,Loss,Red,MAD Lions,40:19,K'Sante,4,3,6
+2023-06-18,EMEA LEC 2023 Summer Season,13.11,Loss,Red,Team BDS,29:37,K'Sante,1,1,1
+2023-06-17,EMEA LEC 2023 Summer Season,13.11,Win,Blue,Excel Esports,35:18,Gragas,3,4,5
+2023-04-16,EMEA LEC 2023 Spring Groups,13.6,Loss,Blue,G2 Esports,35:25,Jayce,3,3,6
+2023-04-16,EMEA LEC 2023 Spring Groups,13.6,Loss,Red,G2 Esports,21:22,Malphite,1,6,1
+2023-04-16,EMEA LEC 2023 Spring Groups,13.6,Win,Red,G2 Esports,27:53,Kennen,3,1,5
+2023-04-10,EMEA LEC 2023 Spring Groups,13.6,Loss,Blue,Team BDS,28:11,Kennen,0,4,7
+2023-04-10,EMEA LEC 2023 Spring Groups,13.6,Loss,Red,Team BDS,29:07,Kennen,2,5,4
+2023-04-09,EMEA LEC 2023 Spring Groups,13.6,Win,Red,G2 Esports,28:02,Kennen,1,4,12
+2023-04-09,EMEA LEC 2023 Spring Groups,13.6,Win,Blue,G2 Esports,31:33,Jayce,7,0,8
+2023-04-09,EMEA LEC 2023 Spring Groups,13.6,Loss,Red,G2 Esports,30:36,Jayce,3,5,2
+2023-03-27,EMEA LEC 2023 Spring Season,13.4,Loss,Blue,Team Vitality,26:38,K'Sante,0,3,1
+2023-03-26,EMEA LEC 2023 Spring Season,13.4,Loss,Blue,Team BDS,39:35,Renekton,1,4,5
+2023-03-25,EMEA LEC 2023 Spring Season,13.4,Win,Blue,Excel Esports,41:28,Gnar,4,3,4
+2023-03-20,EMEA LEC 2023 Spring Season,13.4,Loss,Red,Fnatic,31:50,Gnar,1,4,2
+2023-03-19,EMEA LEC 2023 Spring Season,13.4,Win,Red,SK Gaming,36:30,Gnar,2,2,3
+2023-03-18,EMEA LEC 2023 Spring Season,13.4,Win,Blue,G2 Esports,31:06,Gnar,4,0,4
+2023-03-13,EMEA LEC 2023 Spring Season,13.4,Loss,Red,MAD Lions,30:12,Jayce,2,3,1
+2023-03-12,EMEA LEC 2023 Spring Season,13.4,Win,Blue,Team Heretics,46:53,Jayce,11,3,8
+2023-03-11,EMEA LEC 2023 Spring Season,13.4,Loss,Red,Astralis,28:23,K'Sante,0,1,2
+2023-02-25,EMEA LEC 2023 Winter Playoffs,13.1,Loss,Blue,MAD Lions,29:16,Gnar,2,8,5
+2023-02-25,EMEA LEC 2023 Winter Playoffs,13.1,Loss,Blue,MAD Lions,31:05,K'Sante,1,3,1
+2023-02-25,EMEA LEC 2023 Winter Playoffs,13.1,Loss,Red,MAD Lions,35:08,Ornn,2,4,3
+2023-02-25,EMEA LEC 2023 Winter Playoffs,13.1,Win,Blue,MAD Lions,27:33,K'Sante,3,1,9
+2023-02-20,EMEA LEC 2023 Winter Playoffs,13.1,Loss,Red,G2 Esports,38:58,Gnar,3,4,2
+2023-02-20,EMEA LEC 2023 Winter Playoffs,13.1,Win,Blue,G2 Esports,26:29,Gnar,4,1,4
+2023-02-20,EMEA LEC 2023 Winter Playoffs,13.1,Loss,Blue,G2 Esports,23:25,K'Sante,1,1,1
+2023-02-20,EMEA LEC 2023 Winter Playoffs,13.1,Loss,Red,G2 Esports,28:50,Gnar,1,2,1
+2023-02-13,EMEA LEC 2023 Winter Groups,13.1,Win,Blue,Team Vitality,26:34,K'Sante,2,1,10
+2023-02-13,EMEA LEC 2023 Winter Groups,13.1,Win,Red,Team Vitality,33:19,K'Sante,1,3,8
+2023-02-11,EMEA LEC 2023 Winter Groups,13.1,Win,Red,SK Gaming,35:37,Aatrox,3,4,4
+2023-02-11,EMEA LEC 2023 Winter Groups,13.1,Win,Blue,SK Gaming,27:34,Gnar,1,1,3
+2023-02-06,EMEA LEC 2023 Winter Season,13.1,Win,Blue,Astralis,30:47,Gnar,2,1,6
+2023-02-05,EMEA LEC 2023 Winter Season,13.1,Loss,Red,G2 Esports,27:15,Gangplank,3,4,2
+2023-02-04,EMEA LEC 2023 Winter Season,13.1,Win,Blue,Team Vitality,33:53,Gnar,1,1,8
+2023-01-30,EMEA LEC 2023 Winter Season,13.1,Loss,Red,SK Gaming,29:38,Renekton,0,2,1
+2023-01-29,EMEA LEC 2023 Winter Season,13.1,Loss,Blue,MAD Lions,30:13,K'Sante,0,1,1
+2023-01-28,EMEA LEC 2023 Winter Season,13.1,Loss,Red,Team Heretics,44:34,Fiora,1,4,7
+2023-01-23,EMEA LEC 2023 Winter Season,13.1,Loss,Blue,Fnatic,34:32,Jax,2,4,3
+2023-01-22,EMEA LEC 2023 Winter Season,13.1,Win,Red,Excel Esports,40:27,Aatrox,3,2,11

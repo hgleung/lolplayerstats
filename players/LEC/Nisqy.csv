@@ -1,0 +1,51 @@
+Date,Tournament,Patch,Result,Side,Opponent,Game Duration,Champ,Kills,Deaths,Assists
+2023-07-22,EMEA LEC 2023 Summer Groups,13.13,Loss,Red,Fnatic,37:33,Taliyah,5,2,8
+2023-07-22,EMEA LEC 2023 Summer Groups,13.13,Loss,Red,Fnatic,30:03,Ahri,5,1,0
+2023-07-15,EMEA LEC 2023 Summer Groups,13.13,Loss,Blue,Excel Esports,39:14,LeBlanc,5,2,2
+2023-07-15,EMEA LEC 2023 Summer Groups,13.13,Loss,Red,Excel Esports,29:03,Jayce,4,2,1
+2023-07-03,EMEA LEC 2023 Summer Season,13.11,Loss,Red,Team BDS,29:22,Gragas,0,3,1
+2023-07-02,EMEA LEC 2023 Summer Season,13.11,Loss,Red,SK Gaming,30:09,Azir,1,6,1
+2023-07-01,EMEA LEC 2023 Summer Season,13.11,Loss,Blue,Team Heretics,27:05,Annie,3,4,5
+2023-06-26,EMEA LEC 2023 Summer Season,13.11,Loss,Blue,Excel Esports,38:30,Twisted Fate,0,2,8
+2023-06-25,EMEA LEC 2023 Summer Season,13.11,Loss,Blue,Fnatic,28:23,Neeko,2,6,1
+2023-06-24,EMEA LEC 2023 Summer Season,13.11,Win,Red,Astralis,26:51,Gragas,4,0,13
+2023-06-19,EMEA LEC 2023 Summer Season,13.11,Win,Blue,KOI (Spanish Team),40:19,Annie,4,7,8
+2023-06-18,EMEA LEC 2023 Summer Season,13.11,Win,Blue,G2 Esports,40:10,Ahri,2,4,15
+2023-06-17,EMEA LEC 2023 Summer Season,13.11,Win,Red,Team Vitality,29:56,Azir,5,0,3
+2023-05-13,INT MSI 2023,13.8,Loss,Red,G2 Esports,25:54,Ahri,2,3,2
+2023-05-13,INT MSI 2023,13.8,Loss,Red,G2 Esports,28:33,K'Sante,5,3,10
+2023-05-13,INT MSI 2023,13.8,Loss,Blue,G2 Esports,22:56,Jayce,1,3,3
+2023-05-10,INT MSI 2023,13.8,Loss,Blue,T1,16:50,Twisted Fate,1,3,2
+2023-05-10,INT MSI 2023,13.8,Loss,Blue,T1,24:23,Lissandra,1,3,2
+2023-05-10,INT MSI 2023,13.8,Loss,Blue,T1,33:29,Annie,1,8,12
+2023-04-23,EMEA LEC 2023 Spring Playoffs,13.6,Win,Red,Team BDS,28:03,Gragas,2,0,9
+2023-04-23,EMEA LEC 2023 Spring Playoffs,13.6,Win,Red,Team BDS,23:52,Gragas,2,1,6
+2023-04-23,EMEA LEC 2023 Spring Playoffs,13.6,Win,Blue,Team BDS,29:22,Ahri,2,2,11
+2023-04-23,EMEA LEC 2023 Spring Playoffs,13.6,Loss,Blue,Team BDS,30:59,Zoe,3,6,6
+2023-04-23,EMEA LEC 2023 Spring Playoffs,13.6,Loss,Red,Team BDS,33:31,Ahri,2,5,10
+2023-04-22,EMEA LEC 2023 Spring Playoffs,13.6,Win,Red,Team Vitality,29:05,Twisted Fate,5,2,9
+2023-04-22,EMEA LEC 2023 Spring Playoffs,13.6,Win,Blue,Team Vitality,37:14,Lissandra,4,3,10
+2023-04-22,EMEA LEC 2023 Spring Playoffs,13.6,Loss,Red,Team Vitality,26:50,Sylas,0,4,4
+2023-04-22,EMEA LEC 2023 Spring Playoffs,13.6,Win,Red,Team Vitality,27:47,Ahri,13,1,8
+2023-04-21,EMEA LEC 2023 Spring Playoffs,13.6,Win,Blue,G2 Esports,27:15,Gragas,2,2,7
+2023-04-21,EMEA LEC 2023 Spring Playoffs,13.6,Loss,Red,G2 Esports,30:42,Ahri,3,4,2
+2023-04-21,EMEA LEC 2023 Spring Playoffs,13.6,Win,Red,G2 Esports,25:34,Gragas,4,2,9
+2023-04-21,EMEA LEC 2023 Spring Playoffs,13.6,Win,Blue,G2 Esports,32:41,Gragas,3,3,2
+2023-04-21,EMEA LEC 2023 Spring Playoffs,13.6,Loss,Red,G2 Esports,27:42,Lissandra,1,3,4
+2023-04-16,EMEA LEC 2023 Spring Groups,13.6,Win,Red,Astralis,32:09,Ahri,9,1,15
+2023-04-16,EMEA LEC 2023 Spring Groups,13.6,Win,Red,Astralis,37:58,Annie,9,1,17
+2023-04-15,EMEA LEC 2023 Spring Groups,13.6,Win,Blue,Fnatic,36:08,Twisted Fate,4,6,24
+2023-04-15,EMEA LEC 2023 Spring Groups,13.6,Loss,Red,Fnatic,29:02,Sylas,1,3,4
+2023-04-15,EMEA LEC 2023 Spring Groups,13.6,Win,Blue,Fnatic,30:00,Gragas,3,1,9
+2023-04-08,EMEA LEC 2023 Spring Groups,13.6,Loss,Blue,Team Vitality,29:13,Veigar,5,3,0
+2023-04-08,EMEA LEC 2023 Spring Groups,13.6,Loss,Red,Team Vitality,33:03,Ahri,4,5,2
+2023-03-27,EMEA LEC 2023 Spring Season,13.4,Win,Red,Team Heretics,34:39,Azir,3,4,5
+2023-03-27,EMEA LEC 2023 Spring Season,13.4,Loss,Blue,G2 Esports,28:07,Ahri,1,7,7
+2023-03-26,EMEA LEC 2023 Spring Season,13.4,Win,Blue,SK Gaming,34:50,Lissandra,2,1,14
+2023-03-25,EMEA LEC 2023 Spring Season,13.4,Loss,Red,Fnatic,31:40,Sylas,3,5,2
+2023-03-20,EMEA LEC 2023 Spring Season,13.4,Loss,Blue,Team Heretics,36:29,Cassiopeia,4,6,4
+2023-03-19,EMEA LEC 2023 Spring Season,13.4,Loss,Red,Excel Esports,35:02,Orianna,1,4,6
+2023-03-18,EMEA LEC 2023 Spring Season,13.4,Win,Red,Astralis,28:23,Gragas,5,0,9
+2023-03-13,EMEA LEC 2023 Spring Season,13.4,Win,Blue,KOI (Spanish Team),30:12,Taliyah,2,1,3
+2023-03-12,EMEA LEC 2023 Spring Season,13.4,Loss,Red,Team BDS,32:07,Veigar,2,1,1
+2023-03-11,EMEA LEC 2023 Spring Season,13.4,Loss,Red,Team Vitality,28:05,Cho'Gath,0,4,1

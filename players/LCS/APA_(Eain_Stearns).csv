@@ -1,0 +1,51 @@
+Date,Tournament,Patch,Result,Side,Opponent,Game Duration,Champ,Kills,Deaths,Assists
+2023-08-14,NA LCS 2023 Championship,13.14,Win,Red,Golden Guardians,36:45,Neeko,2,3,8
+2023-08-13,NA LCS 2023 Championship,13.14,Loss,Blue,Golden Guardians,37:41,Ahri,4,3,2
+2023-08-13,NA LCS 2023 Championship,13.14,Loss,Red,Golden Guardians,32:27,Neeko,1,6,6
+2023-08-13,NA LCS 2023 Championship,13.14,Win,Red,Golden Guardians,23:33,Neeko,2,0,10
+2023-08-13,NA LCS 2023 Championship,13.14,Win,Red,Golden Guardians,30:09,Ahri,1,2,6
+2023-08-10,NA LCS 2023 Championship,13.14,Win,Blue,Evil Geniuses.NA,24:17,Neeko,1,1,5
+2023-08-10,NA LCS 2023 Championship,13.14,Loss,Blue,Evil Geniuses.NA,30:37,Cassiopeia,3,4,4
+2023-08-10,NA LCS 2023 Championship,13.14,Win,Blue,Evil Geniuses.NA,21:09,Ziggs,5,1,9
+2023-08-10,NA LCS 2023 Championship,13.14,Win,Blue,Evil Geniuses.NA,27:13,Tristana,1,0,12
+2023-08-05,NA LCS 2023 Championship,13.14,Win,Red,100 Thieves,32:05,Cassiopeia,2,2,8
+2023-08-04,NA LCS 2023 Championship,13.14,Win,Red,100 Thieves,32:18,Cassiopeia,1,0,4
+2023-08-04,NA LCS 2023 Championship,13.14,Loss,Blue,100 Thieves,27:36,Neeko,1,4,6
+2023-08-04,NA LCS 2023 Championship,13.14,Win,Blue,100 Thieves,41:44,Tristana,1,1,2
+2023-07-29,NA LCS 2023 Championship,13.14,Loss,Blue,NRG,29:52,Jayce,1,1,6
+2023-07-28,NA LCS 2023 Championship,13.14,Win,Blue,NRG,35:32,Tristana,2,5,6
+2023-07-28,NA LCS 2023 Championship,13.14,Loss,Blue,NRG,37:41,Tristana,5,5,3
+2023-07-28,NA LCS 2023 Championship,13.14,Loss,Blue,NRG,45:05,Jayce,3,4,1
+2023-07-21,NA LCS 2023 Summer,13.13,Win,Blue,Dignitas,33:25,Ziggs,4,2,11
+2023-07-20,NA LCS 2023 Summer,13.13,Loss,Blue,Evil Geniuses.NA,34:32,Tristana,5,4,5
+2023-07-19,NA LCS 2023 Summer,13.13,Loss,Red,Golden Guardians,28:31,Viktor,2,5,1
+2023-07-14,NA LCS 2023 Summer,13.13,Win,Blue,FlyQuest,30:01,Neeko,4,3,9
+2023-07-13,NA LCS 2023 Summer,13.13,Loss,Blue,TSM,38:27,Cassiopeia,3,6,6
+2023-07-12,NA LCS 2023 Summer,13.13,Win,Red,Cloud9,38:33,Ziggs,7,2,4
+2023-07-08,NA LCS 2023 Summer,13.13,Win,Blue,100 Thieves,27:42,Ziggs,3,0,11
+2023-07-07,NA LCS 2023 Summer,13.13,Win,Blue,Immortals,24:54,Tristana,8,0,3
+2023-07-03,NA NACL 2023 Summer,13.12,Loss,Blue,Wildcard Gaming,25:04,Ahri,1,3,3
+2023-07-03,NA NACL 2023 Summer,13.12,Loss,Red,Wildcard Gaming,23:36,Ziggs,0,2,5
+2023-07-03,NA NACL 2023 Summer,13.12,Loss,Red,FlyQuest Challengers,28:49,Aurelion Sol,6,5,3
+2023-07-03,NA NACL 2023 Summer,13.12,Win,Red,FlyQuest Challengers,31:38,Cassiopeia,5,0,4
+2023-07-01,NA NACL 2023 Summer,13.12,Loss,Blue,Maryville University,37:57,Annie,1,3,2
+2023-07-01,NA NACL 2023 Summer,13.12,Win,Red,Maryville University,29:47,Tristana,5,4,6
+2023-06-27,NA NACL 2023 Summer,13.12,Loss,Blue,Evil Geniuses Challengers,38:54,Ahri,5,5,9
+2023-06-27,NA NACL 2023 Summer,13.12,Win,Blue,Evil Geniuses Challengers,27:13,Cassiopeia,5,0,3
+2023-06-25,NA NACL 2023 Summer,13.12,Win,Blue,AOE Gold,31:04,Ziggs,6,3,15
+2023-06-25,NA NACL 2023 Summer,13.12,Win,Red,AOE Gold,42:40,Annie,4,8,18
+2023-06-24,NA NACL 2023 Summer,13.12,Win,Blue,Wildcard Gaming,31:49,LeBlanc,6,1,7
+2023-06-24,NA NACL 2023 Summer,13.12,Win,Blue,Wildcard Gaming,33:43,Cassiopeia,3,0,2
+2023-06-19,NA NACL 2023 Summer,13.11,Loss,Blue,Team Fish Taco,25:36,Annie,1,6,1
+2023-06-19,NA NACL 2023 Summer,13.11,Win,Red,Team Fish Taco,38:24,Ahri,5,5,5
+2023-06-18,NA NACL 2023 Summer,13.11,Win,Blue,Supernova,29:34,Cassiopeia,3,1,7
+2023-06-18,NA NACL 2023 Summer,13.11,Win,Blue,Supernova,31:41,Ahri,4,3,9
+2023-06-17,NA NACL 2023 Summer,13.11,Win,Blue,Cincinnati Fear,31:13,Twisted Fate,4,1,5
+2023-06-17,NA NACL 2023 Summer,13.11,Win,Red,Cincinnati Fear,26:33,K'Sante,2,0,6
+2023-06-12,NA NACL 2023 Summer,13.11,Win,Red,FlyQuest Challengers,27:19,Nautilus,1,4,13
+2023-06-12,NA NACL 2023 Summer,13.11,Win,Blue,FlyQuest Challengers,24:22,Ahri,8,4,3
+2023-06-11,NA NACL 2023 Summer,13.11,Win,Red,Maryville University,30:42,Twisted Fate,10,2,5
+2023-06-11,NA NACL 2023 Summer,13.11,Win,Blue,Maryville University,35:36,Nautilus,1,1,12
+2023-06-10,NA NACL 2023 Summer,13.11,Win,Blue,Disguised,33:02,Twisted Fate,11,1,14
+2023-06-10,NA NACL 2023 Summer,13.11,Loss,Red,Disguised,31:10,Cassiopeia,2,4,0
+2023-04-01,NA NACL 2023 Spring Playoffs,13.5,Loss,Blue,Cloud9 Challengers,33:50,Ziggs,0,2,1

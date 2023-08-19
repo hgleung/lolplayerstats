@@ -4,6 +4,7 @@ import re
 from reference import *
 from collections import defaultdict
 import csv
+from tqdm import tqdm
 
 pattern = r"title=\"(.*?)\""
 
@@ -12,6 +13,11 @@ def str_to_ref(region: str):
         return (pcs_teams, pcs_players, "PCS")
     if region == "lck":
         return (lck_teams, lck_players, "LCK")
+    if region == "lec":
+        return (lec_teams, lec_players, "LEC")
+    if region == "lcs":
+        return (lcs_teams, lcs_players, "LCS")
+
 
 def get_match_history(player: str) -> list:
     url = "https://lol.fandom.com/wiki/" + player + "/Match_History"
@@ -79,7 +85,7 @@ def convert_to_csv(player_name, region):
 if __name__ == "__main__":
     region_name = input("Enter region name: ")
     region = str_to_ref(region_name.lower())
-    for team in region[0]:
+    for team in tqdm(region[0]):
         for player in region[1][team]:
             try:
                 convert_to_csv(player, region[2])

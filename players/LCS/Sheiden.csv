@@ -1,0 +1,51 @@
+Date,Tournament,Patch,Result,Side,Opponent,Game Duration,Champ,Kills,Deaths,Assists
+2023-08-10,NA LCS 2023 Championship,13.14,Loss,Red,Team Liquid,24:17,Poppy,2,3,3
+2023-08-10,NA LCS 2023 Championship,13.14,Win,Red,Team Liquid,30:37,Ivern,0,1,11
+2023-08-10,NA LCS 2023 Championship,13.14,Loss,Red,Team Liquid,21:09,Sejuani,2,5,3
+2023-08-10,NA LCS 2023 Championship,13.14,Loss,Red,Team Liquid,27:13,Sejuani,1,4,2
+2023-08-05,NA LCS 2023 Championship,13.14,Loss,Red,Cloud9,28:01,Sejuani,3,2,9
+2023-07-28,NA LCS 2023 Championship,13.14,Win,Red,TSM,21:23,Sejuani,2,0,8
+2023-07-27,NA LCS 2023 Championship,13.14,Loss,Red,TSM,27:11,Poppy,1,5,5
+2023-07-27,NA LCS 2023 Championship,13.14,Win,Red,TSM,29:53,Sejuani,0,2,11
+2023-07-27,NA LCS 2023 Championship,13.14,Win,Red,TSM,29:44,Sejuani,2,1,20
+2023-07-27,NA LCS 2023 Championship,13.14,Loss,Blue,TSM,25:17,Poppy,0,5,2
+2023-07-21,NA LCS 2023 Summer,13.13,Win,Blue,TSM,28:29,Ivern,0,1,11
+2023-07-20,NA LCS 2023 Summer,13.13,Win,Red,Team Liquid,34:32,Viego,6,4,15
+2023-07-19,NA LCS 2023 Summer,13.13,Win,Red,Immortals,30:59,Poppy,3,1,14
+2023-07-17,NA NACL 2023 Summer,13.13,Loss,Blue,Disguised,34:33,Viego,7,0,5
+2023-07-17,NA NACL 2023 Summer,13.13,Loss,Red,Disguised,39:49,Ivern,2,2,10
+2023-07-17,NA NACL 2023 Summer,13.13,Loss,Red,Team Liquid Challengers,33:31,Sejuani,1,1,3
+2023-07-17,NA NACL 2023 Summer,13.13,Win,Blue,Team Liquid Challengers,34:14,Kindred,6,1,9
+2023-07-15,NA NACL 2023 Summer,13.13,Loss,Blue,Wildcard Gaming,25:54,Sejuani,0,3,1
+2023-07-15,NA NACL 2023 Summer,13.13,Win,Red,Wildcard Gaming,28:58,Viego,2,2,9
+2023-07-11,NA NACL 2023 Summer,13.13,Win,Blue,FlyQuest Challengers,34:44,Sejuani,0,2,15
+2023-07-11,NA NACL 2023 Summer,13.13,Win,Red,FlyQuest Challengers,37:03,Viego,3,1,7
+2023-07-09,NA NACL 2023 Summer,13.13,Win,Blue,Team Fish Taco,31:05,Sejuani,0,1,12
+2023-07-09,NA NACL 2023 Summer,13.13,Loss,Red,Team Fish Taco,45:54,Poppy,2,7,9
+2023-07-08,NA NACL 2023 Summer,13.13,Win,Blue,Supernova,32:02,Ivern,3,2,12
+2023-07-08,NA NACL 2023 Summer,13.13,Win,Blue,Supernova,26:27,Maokai,2,2,10
+2023-07-03,NA NACL 2023 Summer,13.12,Win,Blue,Maryville University,37:58,Maokai,3,4,10
+2023-07-03,NA NACL 2023 Summer,13.12,Win,Red,Maryville University,39:49,Sejuani,1,1,11
+2023-07-02,NA NACL 2023 Summer,13.12,Loss,Blue,Cincinnati Fear,25:55,Sejuani,1,4,5
+2023-07-02,NA NACL 2023 Summer,13.12,Loss,Red,Cincinnati Fear,35:39,Poppy,0,7,10
+2023-07-02,NA NACL 2023 Summer,13.12,Loss,Red,AOE Gold,29:17,Maokai,0,4,7
+2023-07-01,NA NACL 2023 Summer,13.12,Loss,Blue,AOE Gold,32:29,Maokai,1,2,4
+2023-06-27,NA NACL 2023 Summer,13.12,Win,Red,Team Liquid Challengers,38:54,Viego,8,2,10
+2023-06-27,NA NACL 2023 Summer,13.12,Loss,Red,Team Liquid Challengers,27:13,Viego,2,2,2
+2023-06-25,NA NACL 2023 Summer,13.12,Win,Red,Supernova,25:20,Elise,5,2,10
+2023-06-25,NA NACL 2023 Summer,13.12,Loss,Red,Supernova,21:38,Viego,2,3,2
+2023-06-24,NA NACL 2023 Summer,13.12,Loss,Red,Team Fish Taco,29:25,Ivern,1,3,7
+2023-06-24,NA NACL 2023 Summer,13.12,Loss,Blue,Team Fish Taco,31:01,Vi,4,7,5
+2023-06-19,NA NACL 2023 Summer,13.11,Loss,Red,FlyQuest Challengers,24:48,Graves,1,3,2
+2023-06-19,NA NACL 2023 Summer,13.11,Loss,Blue,FlyQuest Challengers,25:31,Kha'Zix,1,3,0
+2023-06-19,NA NACL 2023 Summer,13.11,Loss,Red,Cincinnati Fear,30:22,Nocturne,3,4,6
+2023-06-18,NA NACL 2023 Summer,13.11,Loss,Red,Cincinnati Fear,28:09,Vi,3,5,3
+2023-06-17,NA NACL 2023 Summer,13.11,Win,Red,Disguised,38:59,Vi,4,3,6
+2023-06-17,NA NACL 2023 Summer,13.11,Loss,Blue,Disguised,24:51,Maokai,0,3,0
+2023-06-12,NA NACL 2023 Summer,13.11,Win,Red,AOE Gold,24:17,Kindred,8,1,5
+2023-06-12,NA NACL 2023 Summer,13.11,Win,Red,AOE Gold,33:56,Nocturne,1,4,9
+2023-06-11,NA NACL 2023 Summer,13.11,Loss,Blue,Wildcard Gaming,30:50,Viego,4,6,2
+2023-06-11,NA NACL 2023 Summer,13.11,Loss,Blue,Wildcard Gaming,31:08,Wukong,0,3,5
+2023-06-11,NA NACL 2023 Summer,13.11,Win,Red,Maryville University,23:11,Vi,8,2,13
+2023-06-10,NA NACL 2023 Summer,13.11,Win,Blue,Maryville University,34:17,Poppy,1,1,7
+2023-03-14,NA NACL 2023 Spring Playoffs,13.5,Loss,Red,AOE Gold,35:37,Viego,2,3,5

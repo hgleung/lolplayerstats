@@ -1,0 +1,51 @@
+Date,Tournament,Patch,Result,Side,Opponent,Game Duration,Champ,Kills,Deaths,Assists
+2023-08-10,NA LCS 2023 Championship,13.14,Loss,Red,Team Liquid,24:17,Kai'Sa,1,1,2
+2023-08-10,NA LCS 2023 Championship,13.14,Win,Red,Team Liquid,30:37,Kai'Sa,6,0,4
+2023-08-10,NA LCS 2023 Championship,13.14,Loss,Red,Team Liquid,21:09,Kai'Sa,2,2,2
+2023-08-10,NA LCS 2023 Championship,13.14,Loss,Red,Team Liquid,27:13,Varus,0,3,3
+2023-08-05,NA LCS 2023 Championship,13.14,Loss,Red,Cloud9,28:01,Kai'Sa,3,3,5
+2023-08-05,NA LCS 2023 Championship,13.14,Loss,Blue,Cloud9,30:08,Aphelios,3,3,3
+2023-08-05,NA LCS 2023 Championship,13.14,Loss,Red,Cloud9,40:05,Aphelios,7,2,3
+2023-07-28,NA LCS 2023 Championship,13.14,Win,Red,TSM,21:23,Aphelios,4,0,2
+2023-07-27,NA LCS 2023 Championship,13.14,Loss,Red,TSM,27:11,Xayah,2,2,0
+2023-07-27,NA LCS 2023 Championship,13.14,Win,Red,TSM,29:53,Xayah,7,1,8
+2023-07-27,NA LCS 2023 Championship,13.14,Win,Red,TSM,29:44,Xayah,1,2,13
+2023-07-27,NA LCS 2023 Championship,13.14,Loss,Blue,TSM,25:17,Kai'Sa,2,1,2
+2023-07-21,NA LCS 2023 Summer,13.13,Win,Blue,TSM,28:29,Kai'Sa,5,1,2
+2023-07-20,NA LCS 2023 Summer,13.13,Win,Red,Team Liquid,34:32,Kai'Sa,6,0,15
+2023-07-19,NA LCS 2023 Summer,13.13,Win,Red,Immortals,30:59,Xayah,2,0,12
+2023-07-14,NA LCS 2023 Summer,13.13,Loss,Red,Cloud9,25:46,Aphelios,0,1,6
+2023-07-13,NA LCS 2023 Summer,13.13,Loss,Blue,FlyQuest,24:23,Xayah,4,5,2
+2023-07-12,NA LCS 2023 Summer,13.13,Loss,Red,Golden Guardians,19:12,Draven,0,1,1
+2023-07-07,NA LCS 2023 Summer,13.13,Loss,Red,NRG,28:01,Xayah,0,2,5
+2023-07-07,NA LCS 2023 Summer,13.13,Win,Blue,100 Thieves,23:52,Aphelios,8,0,4
+2023-07-05,NA LCS 2023 Summer,13.13,Win,Red,Dignitas,33:04,Xayah,14,1,4
+2023-06-30,NA LCS 2023 Summer,13.12,Loss,Red,Cloud9,22:11,Varus,0,6,1
+2023-06-29,NA LCS 2023 Summer,13.12,Win,Blue,Immortals,26:51,Aphelios,2,0,5
+2023-06-28,NA LCS 2023 Summer,13.12,Win,Blue,TSM,29:34,Varus,6,0,4
+2023-06-23,NA LCS 2023 Summer,13.12,Win,Red,Team Liquid,38:06,Xayah,5,0,7
+2023-06-23,NA LCS 2023 Summer,13.12,Win,Blue,FlyQuest,36:30,Xayah,8,0,3
+2023-06-22,NA LCS 2023 Summer,13.12,Win,Red,100 Thieves,27:44,Xayah,3,0,4
+2023-06-16,NA LCS 2023 Summer,13.11,Loss,Blue,Dignitas,35:42,Aphelios,2,4,3
+2023-06-16,NA LCS 2023 Summer,13.11,Win,Red,Golden Guardians,31:23,Aphelios,2,1,7
+2023-06-15,NA LCS 2023 Summer,13.11,Win,Blue,NRG,24:45,Lucian,6,0,4
+2023-03-20,NA NACL 2023 Spring Playoffs,13.5,Loss,Red,Team Liquid Challengers,32:00,Jinx,1,2,1
+2023-03-20,NA NACL 2023 Spring Playoffs,13.5,Win,Blue,Team Liquid Challengers,32:41,Aphelios,6,0,8
+2023-03-20,NA NACL 2023 Spring Playoffs,13.5,Loss,Blue,Team Liquid Challengers,29:57,Xayah,4,3,3
+2023-03-20,NA NACL 2023 Spring Playoffs,13.5,Loss,Blue,Team Liquid Challengers,33:17,Lucian,2,3,1
+2023-03-19,NA NACL 2023 Spring Playoffs,13.5,Loss,Blue,Dignitas Challengers,28:01,Aphelios,3,2,0
+2023-03-19,NA NACL 2023 Spring Playoffs,13.5,Loss,Blue,Dignitas Challengers,36:21,Xayah,1,2,4
+2023-03-14,NA NACL 2023 Spring Playoffs,13.5,Win,Red,TSM Challengers,31:59,Aphelios,8,0,2
+2023-03-14,NA NACL 2023 Spring Playoffs,13.5,Win,Blue,TSM Challengers,26:04,Aphelios,4,1,7
+2023-03-12,NA NACL 2023 Spring Playoffs,13.5,Win,Red,Team Liquid First,23:35,Varus,9,1,4
+2023-03-12,NA NACL 2023 Spring Playoffs,13.5,Win,Blue,Team Liquid First,30:30,Aphelios,4,0,4
+2023-03-06,NA NACL 2023 Spring,13.4,Win,Blue,Team Liquid Challengers,32:08,Zeri,3,1,2
+2023-03-06,NA NACL 2023 Spring,13.4,Loss,Blue,Team Liquid Challengers,32:14,Xayah,1,1,1
+2023-03-04,NA NACL 2023 Spring,13.4,Win,Blue,Cincinnati Fear,23:17,Xayah,5,1,10
+2023-03-04,NA NACL 2023 Spring,13.4,Loss,Blue,Cincinnati Fear,30:09,Zeri,0,2,0
+2023-02-27,NA NACL 2023 Spring,13.3,Win,Blue,Wildcard Gaming,26:30,Xayah,8,0,5
+2023-02-27,NA NACL 2023 Spring,13.3,Win,Blue,Wildcard Gaming,25:15,Varus,9,2,6
+2023-02-26,NA NACL 2023 Spring,13.3,Loss,Red,FlyQuest Challengers,30:22,Zeri,2,1,2
+2023-02-26,NA NACL 2023 Spring,13.3,Loss,Red,FlyQuest Challengers,31:12,Zeri,1,2,1
+2023-02-20,NA NACL 2023 Spring,13.3,Win,Blue,Dignitas Challengers,27:34,Xayah,6,0,8
+2023-02-20,NA NACL 2023 Spring,13.3,Loss,Red,Dignitas Challengers,29:28,Varus,2,3,3

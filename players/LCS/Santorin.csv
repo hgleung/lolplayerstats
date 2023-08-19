@@ -1,0 +1,46 @@
+Date,Tournament,Patch,Result,Side,Opponent,Game Duration,Champ,Kills,Deaths,Assists
+2023-08-11,NA LCS 2023 Championship,13.14,Loss,Blue,Golden Guardians,25:52,Sejuani,1,2,6
+2023-08-11,NA LCS 2023 Championship,13.14,Loss,Blue,Golden Guardians,23:19,Sejuani,0,5,4
+2023-08-11,NA LCS 2023 Championship,13.14,Loss,Red,Golden Guardians,31:50,Sejuani,2,1,6
+2023-08-04,NA LCS 2023 Championship,13.14,Win,Blue,TSM,35:36,Maokai,2,2,9
+2023-08-04,NA LCS 2023 Championship,13.14,Loss,Blue,TSM,45:33,Maokai,0,4,10
+2023-08-03,NA LCS 2023 Championship,13.14,Win,Blue,TSM,23:09,Sejuani,1,1,9
+2023-08-03,NA LCS 2023 Championship,13.14,Loss,Red,TSM,39:24,Maokai,1,5,13
+2023-08-03,NA LCS 2023 Championship,13.14,Win,Red,TSM,26:49,Maokai,1,1,11
+2023-07-22,NA LCS 2023 Summer,13.13,Win,Blue,100 Thieves,28:12,Maokai,0,2,13
+2023-07-21,NA LCS 2023 Summer,13.13,Loss,Red,Team Liquid,33:25,Ivern,0,3,8
+2023-07-21,NA LCS 2023 Summer,13.13,Loss,Red,Golden Guardians,33:35,Sejuani,2,2,3
+2023-07-20,NA LCS 2023 Summer,13.13,Win,Blue,100 Thieves,42:34,Sejuani,1,1,7
+2023-07-15,NA LCS 2023 Summer,13.13,Loss,Blue,Immortals,35:27,Vi,2,4,4
+2023-07-13,NA LCS 2023 Summer,13.13,Loss,Red,NRG,43:50,Sejuani,1,6,9
+2023-07-12,NA LCS 2023 Summer,13.13,Loss,Blue,TSM,29:13,Poppy,2,4,6
+2023-07-07,NA LCS 2023 Summer,13.13,Win,Blue,FlyQuest,31:34,Ivern,2,2,10
+2023-07-06,NA LCS 2023 Summer,13.13,Loss,Red,Cloud9,30:02,Sejuani,1,4,5
+2023-07-05,NA LCS 2023 Summer,13.13,Loss,Blue,Evil Geniuses.NA,33:04,Poppy,5,3,7
+2023-06-30,NA LCS 2023 Summer,13.12,Win,Blue,NRG,34:29,Sejuani,1,1,11
+2023-06-29,NA LCS 2023 Summer,13.12,Win,Blue,TSM,31:47,Poppy,6,0,8
+2023-06-29,NA LCS 2023 Summer,13.12,Loss,Red,100 Thieves,33:08,Maokai,0,2,4
+2023-06-24,NA LCS 2023 Summer,13.12,Win,Red,FlyQuest,25:39,Vi,2,2,8
+2023-06-22,NA LCS 2023 Summer,13.12,Win,Blue,Team Liquid,40:28,Sejuani,4,5,11
+2023-06-21,NA LCS 2023 Summer,13.12,Loss,Blue,Golden Guardians,33:09,Maokai,1,5,8
+2023-06-16,NA LCS 2023 Summer,13.11,Win,Red,Evil Geniuses.NA,35:42,Sejuani,5,1,12
+2023-06-15,NA LCS 2023 Summer,13.11,Loss,Blue,Cloud9,27:24,Maokai,1,3,2
+2023-06-14,NA LCS 2023 Summer,13.11,Loss,Red,Immortals,27:31,Rek'Sai,0,3,0
+2023-03-18,NA LCS 2023 Spring,13.5,Win,Blue,Golden Guardians,40:24,Vi,3,1,10
+2023-03-16,NA LCS 2023 Spring,13.5,Loss,Red,TSM,29:28,Vi,2,2,5
+2023-03-16,NA LCS 2023 Spring,13.5,Loss,Red,Team Liquid,31:38,Lee Sin,2,2,2
+2023-03-11,NA LCS 2023 Spring,13.4,Loss,Blue,100 Thieves,28:21,Sejuani,0,4,1
+2023-03-10,NA LCS 2023 Spring,13.4,Win,Red,Counter Logic Gaming,45:27,Sejuani,1,3,12
+2023-03-03,NA LCS 2023 Spring,13.4,Loss,Red,Cloud9,30:14,Gragas,1,3,4
+2023-03-03,NA LCS 2023 Spring,13.4,Loss,Blue,Immortals,46:51,Sejuani,2,5,13
+2023-02-25,NA LCS 2023 Spring,13.3,Loss,Blue,FlyQuest,35:37,Wukong,2,3,4
+2023-02-24,NA LCS 2023 Spring,13.3,Win,Red,Evil Geniuses.NA,36:48,Sejuani,4,2,9
+2023-02-18,NA LCS 2023 Spring,13.3,Loss,Blue,TSM,31:56,Maokai,0,2,0
+2023-02-17,NA LCS 2023 Spring,13.3,Loss,Red,Golden Guardians,28:34,Vi,0,3,1
+2023-02-16,NA LCS 2023 Spring,13.3,Loss,Blue,Cloud9,29:55,Elise,2,2,4
+2023-02-11,NA LCS 2023 Spring,13.1,Loss,Blue,Team Liquid,24:11,Sejuani,1,4,3
+2023-02-10,NA LCS 2023 Spring,13.1,Loss,Red,Immortals,39:31,Sejuani,0,4,5
+2023-02-03,NA LCS 2023 Spring,13.1,Loss,Blue,Evil Geniuses.NA,26:54,Wukong,1,3,1
+2023-02-03,NA LCS 2023 Spring,13.1,Loss,Red,100 Thieves,31:09,Sejuani,1,2,3
+2023-01-28,NA LCS 2023 Spring,13.1,Loss,Red,FlyQuest,28:55,Sejuani,1,3,1
+2023-01-27,NA LCS 2023 Spring,13.1,Loss,Red,Counter Logic Gaming,30:34,Vi,1,2,3
