@@ -1,22 +1,23 @@
-import csv
 from collections import defaultdict
+import pandas as pd
+
+import csv
+import os
 import math
-from reference import *
-from playerscraper import str_to_ref
+import statistics
+import requests
 
-current_patch = 13.14
+import matplotlib.pyplot as plt
 
-def weighted_average_kills(reg: str, player: str) -> dict:
+
+current_patch = 13.16
+
+data = pd.read_csv("2023_LoL_esports_match_data_from_OraclesElixir.csv")
+
+def avg_kills(stats: pd.DataFrame) -> dict:
     """
-    Reads all lines of data from the CSV file and returns a weighted average of kills based on patch and frequency of champ.
-
-    Args:
-        csv_file: The path to the CSV file.
-
-    Returns:
-        The weighted average of kills.
+    Weighted Average of kills based on champion pick and patch recency
     """
-    
     result = {}
 
     win_champ_freq = defaultdict(int)
@@ -27,51 +28,43 @@ def weighted_average_kills(reg: str, player: str) -> dict:
     lose_kills = defaultdict(int)
     lose_total_freq = 0
 
-    with open(f"players/{reg}/{player}.csv", "r") as csvfile:
-        reader = csv.reader(csvfile)
-        next(reader, None)
+    for _, row in stats.iterrows():
+        patch = row['patch']
+        champ = row['champion']
+        kills = row['kills']
         
-        for row in reader:
-            if row[3] == "Win":
-                patch = float(row[2])
-                champ = row[7]
-                kills = int(row[8])
-        
-                win_champ_freq[champ] += (1 - (current_patch-patch))
-                win_total_freq += (1 - (current_patch - patch))
-                
-                win_kills[champ] += ((1 - (current_patch-patch))) * kills
-            else:
-                patch = float(row[2])
-                champ = row[7]
-                kills = int(row[8])
-        
-                lose_freq[champ] += (1 - (current_patch-patch))
-                lose_total_freq += (1 - (current_patch - patch))
-                
-                lose_kills[champ] += ((1 - (current_patch-patch))) * kills
+        if row['result']:
+            win_champ_freq[champ] += (1 - 5*(current_patch-patch))
+            win_total_freq += (1 - 5*(current_patch - patch))
+            
+            win_kills[champ] += ((1 - 5*(current_patch-patch))) * kills
+        else:
+            lose_freq[champ] += (1 - 5*(current_patch-patch))
+            lose_total_freq += (1 - 5*(current_patch - patch))
+            
+            lose_kills[champ] += ((1 - 5*(current_patch-patch))) * kills
 
-        for champ in win_champ_freq:
-            win_champ_freq[champ] /= win_total_freq
-            win_kills[champ] /= win_total_freq
+    for champ in win_champ_freq:
+        win_champ_freq[champ] /= win_total_freq
+        win_kills[champ] /= win_total_freq
 
-        for champ in lose_freq:
-            lose_freq[champ] /= lose_total_freq
-            lose_kills[champ] /= lose_total_freq
+    for champ in lose_freq:
+        lose_freq[champ] /= lose_total_freq
+        lose_kills[champ] /= lose_total_freq
 
-        win_weighted_kills = 0
-        win_total_weight = 0
+    win_weighted_kills = 0
+    win_total_weight = 0
 
-        lose_weighted_kills = 0
-        lose_total_weight = 0
+    lose_weighted_kills = 0
+    lose_total_weight = 0
 
-        for champ, weighted_kill in win_kills.items():
-            win_weighted_kills += weighted_kill
-            win_total_weight += win_champ_freq[champ]
+    for champ, weighted_kill in win_kills.items():
+        win_weighted_kills += weighted_kill
+        win_total_weight += win_champ_freq[champ]
 
-        for champ, weighted_kill in lose_kills.items():
-            lose_weighted_kills += weighted_kill
-            lose_total_weight += lose_freq[champ]
+    for champ, weighted_kill in lose_kills.items():
+        lose_weighted_kills += weighted_kill
+        lose_total_weight += lose_freq[champ]
 
     if win_total_weight == 0:
         result["Win"] = 0
@@ -84,24 +77,26 @@ def weighted_average_kills(reg: str, player: str) -> dict:
         result["Lose"] = lose_weighted_kills / lose_total_weight
 
     return result
+        
+if __name__ == "__main__":
+    # while True:
+    #     player = input("Enter player name\n")
+    #     player_data = data[data['playername'] == player]
+        
+    #     avg = avg_kills(player_data)
 
-while __name__ == "__main__":
-    region_name = input("Enter region name: ")
-    region = str_to_ref(region_name.lower())
+    #     print('3-0: {}'.format(round(avg["Win"]*3, 2)))
+    #     print('2-1: {}'.format(round(avg["Win"]*2 + avg["Lose"], 2)))
+    #     print('1-2: {}'.format(round(avg["Win"] + avg["Lose"]*2, 2)))
+    #     print('0-3: {}'.format(round(avg["Lose"]*3, 2)))
 
-    teams = input("Enter team names: ").split()
-    if teams[0] == "exit":
-        exit()
-    else:
-        for team in teams:
-            for player in region[1][team_conversion[team.lower()]]:
-                try:
-                    print(player.split('_')[0])
-                    projections = weighted_average_kills(region[2], player)
-                    print('3-0:', round(projections['Win']*3, 2))
-                    print('2-1:', round(projections['Win']*2 + projections['Lose'], 2))
-                    print('1-2:', round(projections['Win'] + projections['Lose']*2, 2))
-                    print('0-3:', round(projections['Lose']*3, 2))
-                except FileNotFoundError or KeyError:
-                    print("Player not found")
-    
+    data = data.loc[data["position"].isin(['top', 'jng', 'mid', 'bot'])]
+    data = data.loc[data["league"].isin(['LPL', 'LCS', 'LCK', 'LEC', 'PCS'])]
+    corr = data.corr(numeric_only=True)["kills"]
+    print(corr["ckpm"])
+
+    # plt.scatter(data['teamkills'], data['kills'])
+    # plt.xlabel('Feature Values')
+    # plt.ylabel('Kills')
+    # plt.legend()
+    # plt.show()
