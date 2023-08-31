@@ -13,6 +13,9 @@ import matplotlib.pyplot as plt
 current_patch = 13.16
 
 data = pd.read_csv("2023_LoL_esports_match_data_from_OraclesElixir.csv")
+# data['kp'] = (data['kills'] + data['assists']) / data['teamkills']
+# data['ks'] = data['kills'] / data['teamkills']
+
 
 def avg_kills(stats: pd.DataFrame) -> dict:
     """
@@ -90,10 +93,10 @@ if __name__ == "__main__":
     #     print('1-2: {}'.format(round(avg["Win"] + avg["Lose"]*2, 2)))
     #     print('0-3: {}'.format(round(avg["Lose"]*3, 2)))
 
-    data = data.loc[data["position"].isin(['top', 'jng', 'mid', 'bot'])]
-    data = data.loc[data["league"].isin(['LPL', 'LCS', 'LCK', 'LEC', 'PCS'])]
-    corr = data.corr(numeric_only=True)["kills"]
-    print(corr["ckpm"])
+    # filtered = data.loc[data["position"].isin(['top', 'jng', 'mid', 'bot'])]
+
+    corr = data.corr(numeric_only=True)["teamkills"]
+    print(corr["gamelength"])
 
     # plt.scatter(data['teamkills'], data['kills'])
     # plt.xlabel('Feature Values')
