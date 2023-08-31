@@ -2,7 +2,7 @@ import pandas as pd
 from trueskill import Rating, rate_1vs1
 
 
-def trueskill(df):
+def trueskill(df: pd.DataFrame) -> {str: Rating}:
     """
     This function implements the TrueSkill algorithm.
 
@@ -36,7 +36,7 @@ def trueskill(df):
     return ratings
 
 
-def get_winning_teams(df):
+def get_winning_teams(df: pd.DataFrame) -> pd.DataFrame:
     """
     This function takes a pandas DataFrame as input and returns a new DataFrame with one row of data per pair of rows
     where the "gameid" value is the same, and the "result" value is 1 for one row and 0 for the other row.
@@ -66,16 +66,26 @@ def get_winning_teams(df):
     return winners
 
 
-if __name__ == "__main__":
-    data = pd.read_csv("2023_LoL_esports_match_data_from_OraclesElixir.csv")
-    data = data.loc[data['league'] == 'LEC']
+def rank_league(df: pd.DataFrame, league: str) -> {str: Rating}:
+    data = df.loc[df['league'] == league]
     data = data.loc[data["position"] == "team"]
 
     # print(trueskill(data))
 
     data = get_winning_teams(data)
     elo = trueskill(data)
+
+    return elo
+
+
+while __name__ == "__main__":
+    data = pd.read_csv("2023_LoL_esports_match_data_from_OraclesElixir.csv")
+    
+    league = input('Enter a league:\n')
+
+    elo = rank_league(data, league)
+    
     ranking = sorted(elo.keys(), key=lambda team: elo[team].mu, reverse=True)
 
     for team in ranking:
-        print(f"{team}: μ={elo[team].mu:.2f}, σ={elo[team].sigma:.2f}")
+        print(f"{team}: μ={elo[team].mu:.2f}, σ={elo[team].sigma:.2f}") 
