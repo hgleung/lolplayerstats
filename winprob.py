@@ -1,5 +1,22 @@
 import pandas as pd
-from trueskill import Rating, rate_1vs1
+from trueskill import TrueSkill, Rating, rate_1vs1
+
+
+def predicted_win_probability(team_ratings, team1, team2, scaling_factor=1):
+    delta_mu = team_ratings[team1].mu - team_ratings[team2].mu
+    delta_sigma = ((team_ratings[team1].sigma ** 2) + (team_ratings[team2].sigma ** 2)) ** 0.5
+    scaled_delta_mu = delta_mu * scaling_factor
+
+    return TrueSkill().cdf(scaled_delta_mu / delta_sigma)
+
+
+def find_scaling_factor(team_ratings, desired_prob, team1, team2):
+    delta_mu = team_ratings[team1].mu - team_ratings[team2].mu
+    delta_sigma = ((team_ratings[team1].sigma ** 2) + (team_ratings[team2].sigma ** 2)) ** 0.5
+    
+    scaling_factor = TrueSkill().ppf(desired_prob)  # Inverse of CDF
+    scaling_factor = scaling_factor * delta_sigma / delta_mu
+    return scaling_factor
 
 
 def trueskill(df: pd.DataFrame) -> {str: Rating}:
@@ -78,14 +95,22 @@ def rank_league(df: pd.DataFrame, league: str) -> {str: Rating}:
     return elo
 
 
-while __name__ == "__main__":
+if __name__ == "__main__":
     data = pd.read_csv("2023_LoL_esports_match_data_from_OraclesElixir.csv")
-    
-    league = input('Enter a league:\n')
 
-    elo = rank_league(data, league)
+    elo = rank_league(data, "LEC")
     
     ranking = sorted(elo.keys(), key=lambda team: elo[team].mu, reverse=True)
 
-    for team in ranking:
-        print(f"{team}: μ={elo[team].mu:.2f}, σ={elo[team].sigma:.2f}") 
+    team1 = "Team BDS"
+    team2 = "Fnatic"
+
+    scaling_factor = 0.37443501077648916  # Scaling factor to control the impact of skill difference
+
+    win_probability = predicted_win_probability(elo, team1, team2, scaling_factor)
+
+    print(f"The predicted win probability of {team1} beating {team2} is: {win_probability:.2%}")    
+        
+
+        
+ 
