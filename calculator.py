@@ -1,20 +1,17 @@
 from collections import defaultdict
 import pandas as pd
-
-import csv
-import os
-import math
-import statistics
-import requests
-
-import matplotlib.pyplot as plt
+from teamkillmodel import *
+from playerkillmodel import *
+from winprob import *
 
 
 current_patch = 13.16
 
+
 data = pd.read_csv("2023_LoL_esports_match_data_from_OraclesElixir.csv")
-# data['kp'] = (data['kills'] + data['assists']) / data['teamkills']
-# data['ks'] = data['kills'] / data['teamkills']
+data['kp'] = (data['kills'] + data['assists']) / data['teamkills']
+data['ks'] = data['kills'] / data['teamkills']
+
 
 
 def avg_kills(stats: pd.DataFrame) -> dict:
@@ -82,24 +79,16 @@ def avg_kills(stats: pd.DataFrame) -> dict:
     return result
         
 if __name__ == "__main__":
-    # while True:
-    #     player = input("Enter player name\n")
-    #     player_data = data[data['playername'] == player]
-        
-    #     avg = avg_kills(player_data)
+    pk = playerkills(data)[0]
+    tk = teamkills(data)[0]
 
-    #     print('3-0: {}'.format(round(avg["Win"]*3, 2)))
-    #     print('2-1: {}'.format(round(avg["Win"]*2 + avg["Lose"], 2)))
-    #     print('1-2: {}'.format(round(avg["Win"] + avg["Lose"]*2, 2)))
-    #     print('0-3: {}'.format(round(avg["Lose"]*3, 2)))
+    agt = ((31.0 + 30.4) / 2) * 60
+    ckpm = 0.86
+    tk_new = pd.DataFrame({'gamelength': [agt], 'ckpm': [ckpm], 'result': [0.7625]})
+    predicted_tk = tk.predict(tk_new)[0]
+    
+    pk_new = pd.DataFrame({'kp': [0.702], 'ks': [0.274], 'teamkills': [predicted_tk]})
+    predicted_pk = pk.predict(pk_new)[0]
 
-    # filtered = data.loc[data["position"].isin(['top', 'jng', 'mid', 'bot'])]
+    print(f"Predicted Kills: {predicted_pk}")
 
-    corr = data.corr(numeric_only=True)["teamkills"]
-    print(corr["gamelength"])
-
-    # plt.scatter(data['teamkills'], data['kills'])
-    # plt.xlabel('Feature Values')
-    # plt.ylabel('Kills')
-    # plt.legend()
-    # plt.show()
