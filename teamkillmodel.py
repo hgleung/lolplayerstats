@@ -25,7 +25,7 @@ def teamkills(df: pd.DataFrame):
 if __name__ == "__main__":
     data = pd.read_csv("2023_LoL_esports_match_data_from_OraclesElixir.csv")
     
-    data = data.loc[data["league"].isin(["LPL", "LCK", "LCS", "LEC", "PCS"])]
+    # data = data.loc[data["league"].isin(["LPL", "LCK", "LCS", "LEC", "PCS"])]
 
     rf_model, X_test, y_test = teamkills(data)
     y_pred = rf_model.predict(X_test)

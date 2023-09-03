@@ -10,7 +10,9 @@ current_patch = 13.16
 
 data = pd.read_csv("2023_LoL_esports_match_data_from_OraclesElixir.csv")
 data['kp'] = (data['kills'] + data['assists']) / data['teamkills']
+data['kp'].fillna(0, inplace=True)
 data['ks'] = data['kills'] / data['teamkills']
+data['ks'].fillna(0, inplace=True)
 
 
 
@@ -82,13 +84,21 @@ if __name__ == "__main__":
     pk = playerkills(data)[0]
     tk = teamkills(data)[0]
 
-    agt = ((31.0 + 30.4) / 2) * 60
-    ckpm = 0.86
-    tk_new = pd.DataFrame({'gamelength': [agt], 'ckpm': [ckpm], 'result': [0.7625]})
+    teams = data[data['position'] == 'team']
+    g2_data = teams[teams['teamname'] == 'G2 Esports']
+    mad_data = teams[teams['teamname'] == 'MAD Lions']
+    agt = (g2_data['gamelength'].mean() + mad_data['gamelength'].mean()) / 2
+    ckpm = (g2_data['ckpm'].mean() + mad_data['ckpm'].mean()) / 2
+
+
+    tk_new = pd.DataFrame({'gamelength': [agt], 'ckpm': [ckpm], 'result': [0.2124]})
     predicted_tk = tk.predict(tk_new)[0]
     
-    pk_new = pd.DataFrame({'kp': [0.702], 'ks': [0.274], 'teamkills': [predicted_tk]})
+    caps_data = data[data['playername'] == 'Carzzy']
+    average_kp = caps_data['kp'].mean()
+    average_ks = caps_data['ks'].mean()
+
+    pk_new = pd.DataFrame({'kp': [average_kp], 'ks': [average_ks], 'teamkills': [predicted_tk]})
     predicted_pk = pk.predict(pk_new)[0]
 
     print(f"Predicted Kills: {predicted_pk}")
-
